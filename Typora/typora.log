@@ -1,0 +1,2192 @@
+INFO 3/16/2021, 5:45:23 AM  luanchFromDiffVersion, pre version is undefined
+INFO 3/16/2021, 5:45:23 AM  overwriteThemeFolder
+INFO 3/16/2021, 5:45:23 AM  ------------------start------------------
+INFO 3/16/2021, 5:45:23 AM  typora version: 0.9.98
+DEBUG 3/16/2021, 5:45:23 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/16/2021, 5:45:23 AM  [Raven] instanceKey = 03b34a14-e0b1-46b7-b20b-ad1e5b3c26ff
+DEBUG 3/16/2021, 5:45:23 AM  app.openFile
+INFO 3/16/2021, 5:45:23 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/16/2021, 5:45:23 AM  [focus] 1
+INFO 3/16/2021, 5:45:23 AM  handle document.loadInitData
+INFO 3/16/2021, 5:45:27 AM  [blur] 1
+INFO 3/16/2021, 5:45:27 AM  [focus] 1
+INFO 3/16/2021, 5:45:52 AM  window.File && (function(){File.option.enableAutoSave = true;})();
+INFO 3/16/2021, 5:45:58 AM  File.option.useCustomFontSize=true
+INFO 3/16/2021, 5:45:58 AM  document.body.parentElement.style.fontSize = '14px'
+INFO 3/16/2021, 5:46:02 AM  File.setCanCollapsePinnedOutline(true);
+INFO 3/16/2021, 5:46:06 AM  updateTheme
+INFO 3/16/2021, 5:46:10 AM  updateTheme
+INFO 3/16/2021, 5:46:13 AM  updateTheme
+INFO 3/16/2021, 5:46:29 AM  updateTheme
+INFO 3/16/2021, 5:46:31 AM  [blur] 1
+INFO 3/16/2021, 5:47:32 AM  [focus] 1
+INFO 3/16/2021, 5:47:33 AM  [blur] 1
+INFO 3/16/2021, 5:47:43 AM  [focus] 1
+INFO 3/16/2021, 5:47:44 AM  [blur] 1
+INFO 3/16/2021, 5:47:45 AM  [focus] 1
+INFO 3/16/2021, 5:47:46 AM  [blur] 1
+INFO 3/16/2021, 5:47:46 AM  [focus] 1
+INFO 3/16/2021, 5:47:47 AM  [blur] 1
+INFO 3/16/2021, 5:49:02 AM  [focus] 1
+INFO 3/16/2021, 5:49:03 AM  [blur] 1
+INFO 3/16/2021, 5:49:04 AM  [focus] 1
+INFO 3/16/2021, 5:49:04 AM  [blur] 1
+INFO 3/16/2021, 5:49:04 AM  [focus] 1
+INFO 3/16/2021, 5:49:04 AM  [blur] 1
+INFO 3/16/2021, 5:49:04 AM  [focus] 1
+INFO 3/16/2021, 5:49:13 AM  [blur] 1
+INFO 3/16/2021, 5:49:13 AM  [focus] 1
+INFO 3/16/2021, 5:49:13 AM  [blur] 1
+INFO 3/16/2021, 5:49:13 AM  [focus] 1
+INFO 3/16/2021, 5:49:13 AM  [blur] 1
+INFO 3/16/2021, 5:49:13 AM  [focus] 1
+INFO 3/16/2021, 5:49:25 AM  ----------------before-quit-----------------
+INFO 3/16/2021, 5:49:25 AM  ------------------will-quit------------------
+INFO 3/16/2021, 5:49:43 AM  ------------------start------------------
+INFO 3/16/2021, 5:49:43 AM  typora version: 0.9.98
+DEBUG 3/16/2021, 5:49:43 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/16/2021, 5:49:43 AM  [Raven] instanceKey = 0678350c-d1a4-4769-9fe8-6b3c2d08ef02
+DEBUG 3/16/2021, 5:49:43 AM  reopen file
+DEBUG 3/16/2021, 5:49:43 AM  reopenClosed
+DEBUG 3/16/2021, 5:49:43 AM  app.openFile
+INFO 3/16/2021, 5:49:43 AM  [focus] 1
+INFO 3/16/2021, 5:49:43 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/16/2021, 5:49:43 AM  handle document.loadInitData
+INFO 3/16/2021, 5:49:44 AM  [blur] 1
+INFO 3/16/2021, 5:49:45 AM  ----------------before-quit-----------------
+INFO 3/16/2021, 5:49:49 AM  ------------------start------------------
+INFO 3/16/2021, 5:49:49 AM  typora version: 0.9.98
+DEBUG 3/16/2021, 5:49:49 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/16/2021, 5:49:49 AM  [Raven] instanceKey = 7784531b-537c-4cb5-97f9-1c54d1b8ae72
+DEBUG 3/16/2021, 5:49:49 AM  reopen file
+DEBUG 3/16/2021, 5:49:49 AM  reopenClosed
+DEBUG 3/16/2021, 5:49:49 AM  app.openFile
+INFO 3/16/2021, 5:49:49 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/16/2021, 5:49:49 AM  [focus] 1
+INFO 3/16/2021, 5:49:49 AM  handle document.loadInitData
+INFO 3/16/2021, 5:49:58 AM  [blur] 1
+INFO 3/16/2021, 5:50:03 AM  [focus] 1
+INFO 3/16/2021, 5:50:04 AM  [blur] 1
+INFO 3/16/2021, 5:50:04 AM  [focus] 1
+INFO 3/16/2021, 5:50:04 AM  [blur] 1
+INFO 3/16/2021, 5:50:04 AM  [focus] 1
+INFO 3/16/2021, 5:50:04 AM  [blur] 1
+INFO 3/16/2021, 5:50:04 AM  [focus] 1
+INFO 3/16/2021, 5:50:12 AM  [blur] 1
+INFO 3/16/2021, 5:50:12 AM  [focus] 1
+INFO 3/16/2021, 5:50:12 AM  [blur] 1
+INFO 3/16/2021, 5:50:12 AM  [focus] 1
+INFO 3/16/2021, 5:50:12 AM  [blur] 1
+INFO 3/16/2021, 5:50:12 AM  [focus] 1
+INFO 3/16/2021, 5:50:16 AM  updateTheme
+INFO 3/16/2021, 5:50:23 AM  updateTheme
+INFO 3/16/2021, 5:50:27 AM  updateTheme
+INFO 3/16/2021, 5:50:34 AM  updateTheme
+INFO 3/16/2021, 5:50:37 AM  [blur] 1
+INFO 3/16/2021, 5:51:01 AM  [focus] 1
+INFO 3/16/2021, 5:51:01 AM  [blur] 1
+INFO 3/16/2021, 5:51:57 AM  [focus] 1
+INFO 3/16/2021, 5:51:59 AM  ----------------before-quit-----------------
+INFO 3/16/2021, 5:51:59 AM  ------------------will-quit------------------
+INFO 3/16/2021, 5:52:01 AM  ------------------start------------------
+INFO 3/16/2021, 5:52:01 AM  typora version: 0.9.98
+DEBUG 3/16/2021, 5:52:01 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/16/2021, 5:52:01 AM  [Raven] instanceKey = 3e2b7046-f404-4bee-ae8c-5282e8af2299
+DEBUG 3/16/2021, 5:52:01 AM  pinFolder /home/arjun/notes
+DEBUG 3/16/2021, 5:52:01 AM  app.openFile
+INFO 3/16/2021, 5:52:01 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/16/2021, 5:52:01 AM  [focus] 1
+INFO 3/16/2021, 5:52:02 AM  handle document.loadInitData
+INFO 3/16/2021, 5:52:02 AM  addRecentFolder
+INFO 3/16/2021, 5:52:20 AM  [blur] 1
+INFO 3/16/2021, 5:52:22 AM  [focus] 1
+INFO 3/16/2021, 5:52:32 AM  [blur] 1
+INFO 3/16/2021, 5:52:32 AM  [focus] 1
+INFO 3/16/2021, 5:52:32 AM  [blur] 1
+INFO 3/16/2021, 5:53:01 AM  [focus] 1
+INFO 3/16/2021, 5:53:01 AM  [blur] 1
+INFO 3/16/2021, 5:53:01 AM  [focus] 1
+INFO 3/16/2021, 5:53:01 AM  [blur] 1
+INFO 3/16/2021, 5:53:02 AM  [focus] 1
+INFO 3/16/2021, 5:53:02 AM  ----------------before-quit-----------------
+INFO 3/16/2021, 5:53:02 AM  ------------------will-quit------------------
+INFO 3/16/2021, 5:53:05 AM  ------------------start------------------
+INFO 3/16/2021, 5:53:05 AM  typora version: 0.9.98
+DEBUG 3/16/2021, 5:53:05 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/16/2021, 5:53:05 AM  [Raven] instanceKey = 8d67d5ea-58d0-4be4-8481-58e907994aa9
+DEBUG 3/16/2021, 5:53:05 AM  pinFolder /home/arjun/notes
+DEBUG 3/16/2021, 5:53:05 AM  app.openFile
+INFO 3/16/2021, 5:53:05 AM  [focus] 1
+INFO 3/16/2021, 5:53:05 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/16/2021, 5:53:05 AM  handle document.loadInitData
+INFO 3/16/2021, 5:53:05 AM  addRecentFolder
+INFO 3/16/2021, 5:55:09 AM  [blur] 1
+INFO 3/16/2021, 5:55:10 AM  [focus] 1
+INFO 3/16/2021, 5:55:35 AM  [blur] 1
+INFO 3/16/2021, 5:55:47 AM  [focus] 1
+INFO 3/16/2021, 5:58:45 AM  [blur] 1
+INFO 3/16/2021, 5:58:51 AM  [focus] 1
+INFO 3/16/2021, 5:58:51 AM  [blur] 1
+INFO 3/16/2021, 5:58:52 AM  [focus] 1
+INFO 3/16/2021, 5:58:52 AM  [blur] 1
+INFO 3/16/2021, 5:58:52 AM  [focus] 1
+INFO 3/16/2021, 5:58:52 AM  [blur] 1
+INFO 3/16/2021, 5:58:52 AM  [focus] 1
+INFO 3/16/2021, 5:58:52 AM  addRecentDocument
+INFO 3/16/2021, 6:01:17 AM  [blur] 1
+INFO 3/16/2021, 6:01:26 AM  [focus] 1
+INFO 3/16/2021, 6:01:34 AM  [blur] 1
+INFO 3/16/2021, 6:02:54 AM  [focus] 1
+INFO 3/16/2021, 6:02:54 AM  [blur] 1
+INFO 3/16/2021, 6:02:55 AM  [focus] 1
+INFO 3/16/2021, 6:02:58 AM  [blur] 1
+INFO 3/16/2021, 6:02:58 AM  [focus] 1
+INFO 3/16/2021, 6:02:58 AM  [blur] 1
+INFO 3/16/2021, 6:04:20 AM  [focus] 1
+INFO 3/16/2021, 6:04:36 AM  [blur] 1
+INFO 3/16/2021, 6:06:19 AM  [focus] 1
+INFO 3/16/2021, 6:06:22 AM  [blur] 1
+INFO 3/16/2021, 6:06:23 AM  [focus] 1
+INFO 3/16/2021, 6:06:36 AM  [blur] 1
+INFO 3/16/2021, 6:06:39 AM  [focus] 1
+INFO 3/16/2021, 6:06:41 AM  [blur] 1
+INFO 3/16/2021, 6:06:55 AM  [focus] 1
+INFO 3/16/2021, 6:06:56 AM  [blur] 1
+INFO 3/16/2021, 6:08:47 AM  [focus] 1
+INFO 3/16/2021, 6:08:47 AM  [blur] 1
+INFO 3/16/2021, 6:08:48 AM  [focus] 1
+INFO 3/16/2021, 6:08:53 AM  [blur] 1
+INFO 3/16/2021, 6:09:11 AM  [focus] 1
+INFO 3/16/2021, 6:10:28 AM  [blur] 1
+INFO 3/16/2021, 6:13:50 AM  [focus] 1
+INFO 3/16/2021, 6:15:30 AM  [blur] 1
+INFO 3/16/2021, 6:15:37 AM  [focus] 1
+INFO 3/16/2021, 6:17:53 AM  [blur] 1
+INFO 3/16/2021, 6:18:34 AM  [focus] 1
+INFO 3/16/2021, 6:19:10 AM  [blur] 1
+INFO 3/16/2021, 6:22:42 AM  [focus] 1
+INFO 3/16/2021, 6:22:51 AM  [blur] 1
+INFO 3/16/2021, 6:22:52 AM  [focus] 1
+INFO 3/16/2021, 6:25:53 AM  The system is going to sleep
+INFO 3/16/2021, 12:19:45 PM  [blur] 1
+INFO 3/16/2021, 12:20:25 PM  [focus] 1
+INFO 3/16/2021, 12:22:56 PM  [blur] 1
+INFO 3/16/2021, 12:22:58 PM  [focus] 1
+INFO 3/16/2021, 12:23:16 PM  [blur] 1
+INFO 3/16/2021, 12:54:16 PM  [focus] 1
+INFO 3/16/2021, 12:54:17 PM  [blur] 1
+INFO 3/16/2021, 12:55:06 PM  [focus] 1
+INFO 3/16/2021, 12:55:07 PM  [blur] 1
+INFO 3/16/2021, 1:06:24 PM  [focus] 1
+INFO 3/16/2021, 1:06:25 PM  [blur] 1
+INFO 3/16/2021, 1:08:09 PM  [focus] 1
+INFO 3/16/2021, 1:08:09 PM  [blur] 1
+INFO 3/16/2021, 1:14:29 PM  [focus] 1
+INFO 3/16/2021, 1:14:30 PM  [blur] 1
+INFO 3/16/2021, 1:21:49 PM  [focus] 1
+INFO 3/16/2021, 1:21:50 PM  [blur] 1
+INFO 3/16/2021, 2:12:38 PM  [focus] 1
+INFO 3/16/2021, 2:13:00 PM  [blur] 1
+INFO 3/16/2021, 2:13:13 PM  [focus] 1
+INFO 3/16/2021, 2:13:14 PM  [blur] 1
+INFO 3/16/2021, 2:13:17 PM  [focus] 1
+INFO 3/16/2021, 2:13:18 PM  [blur] 1
+INFO 3/16/2021, 2:13:21 PM  [focus] 1
+INFO 3/16/2021, 2:13:21 PM  [blur] 1
+INFO 3/16/2021, 2:13:21 PM  [focus] 1
+INFO 3/16/2021, 2:13:21 PM  [blur] 1
+INFO 3/16/2021, 2:13:21 PM  [focus] 1
+INFO 3/16/2021, 2:13:25 PM  [blur] 1
+INFO 3/16/2021, 2:14:11 PM  [focus] 1
+INFO 3/16/2021, 2:14:11 PM  [blur] 1
+INFO 3/16/2021, 2:19:22 PM  [focus] 1
+INFO 3/16/2021, 2:19:23 PM  [blur] 1
+INFO 3/16/2021, 2:19:24 PM  [focus] 1
+INFO 3/16/2021, 2:19:24 PM  [blur] 1
+INFO 3/16/2021, 2:19:31 PM  [focus] 1
+INFO 3/16/2021, 2:19:31 PM  [blur] 1
+INFO 3/16/2021, 2:19:35 PM  [focus] 1
+INFO 3/16/2021, 2:19:35 PM  [blur] 1
+INFO 3/16/2021, 2:19:35 PM  [focus] 1
+INFO 3/16/2021, 2:19:35 PM  [blur] 1
+INFO 3/16/2021, 2:19:35 PM  [focus] 1
+DEBUG 3/16/2021, 2:19:35 PM  app.openFile
+INFO 3/16/2021, 2:19:35 PM  addRecentDocument
+INFO 3/16/2021, 2:19:35 PM  [blur] 1
+INFO 3/16/2021, 2:19:35 PM  [focus] 2
+INFO 3/16/2021, 2:19:35 PM  handle document.loadInitData
+INFO 3/16/2021, 2:19:36 PM  [blur] 2
+INFO 3/16/2021, 2:19:36 PM  [focus] 1
+INFO 3/16/2021, 2:19:39 PM  [blur] 1
+INFO 3/16/2021, 2:19:39 PM  [focus] 2
+INFO 3/16/2021, 2:22:12 PM  [blur] 2
+INFO 3/16/2021, 2:24:00 PM  [focus] 2
+INFO 3/16/2021, 2:24:05 PM  [blur] 2
+INFO 3/16/2021, 2:25:21 PM  [focus] 2
+INFO 3/16/2021, 2:27:02 PM  [blur] 2
+INFO 3/16/2021, 2:27:12 PM  [focus] 2
+INFO 3/16/2021, 2:28:53 PM  [blur] 2
+INFO 3/16/2021, 2:29:24 PM  [focus] 2
+INFO 3/16/2021, 2:29:25 PM  [blur] 2
+INFO 3/16/2021, 2:29:25 PM  [focus] 2
+INFO 3/16/2021, 2:30:01 PM  [blur] 2
+INFO 3/16/2021, 2:30:02 PM  [focus] 1
+INFO 3/16/2021, 2:30:02 PM  [blur] 1
+INFO 3/16/2021, 2:30:19 PM  [focus] 2
+INFO 3/16/2021, 2:30:19 PM  [blur] 2
+INFO 3/16/2021, 2:30:30 PM  [focus] 2
+INFO 3/16/2021, 2:30:34 PM  [blur] 2
+INFO 3/16/2021, 2:30:35 PM  [focus] 2
+INFO 3/16/2021, 2:30:36 PM  [blur] 2
+INFO 3/16/2021, 2:33:11 PM  [focus] 2
+INFO 3/16/2021, 2:33:16 PM  [blur] 2
+INFO 3/16/2021, 2:33:17 PM  [focus] 2
+INFO 3/16/2021, 2:59:40 PM  [focus] 1
+INFO 3/16/2021, 3:02:46 PM  [blur] 1
+INFO 3/16/2021, 3:03:20 PM  [focus] 1
+INFO 3/16/2021, 3:03:22 PM  [blur] 1
+INFO 3/16/2021, 3:03:23 PM  [focus] 1
+INFO 3/16/2021, 3:03:29 PM  ----------------before-quit-----------------
+INFO 3/16/2021, 3:03:29 PM  ------------------will-quit------------------
+INFO 3/16/2021, 3:04:22 PM  ------------------start------------------
+INFO 3/16/2021, 3:04:22 PM  typora version: 0.9.98
+DEBUG 3/16/2021, 3:04:22 PM  [ '/usr/share/typora/Typora' ]
+INFO 3/16/2021, 3:04:22 PM  [Raven] instanceKey = 1d43585b-379e-4c34-9d87-7fd92e3d2885
+DEBUG 3/16/2021, 3:04:22 PM  pinFolder /home/arjun/notes
+DEBUG 3/16/2021, 3:04:22 PM  app.openFile
+INFO 3/16/2021, 3:04:22 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/16/2021, 3:04:22 PM  [focus] 1
+INFO 3/16/2021, 3:04:23 PM  handle document.loadInitData
+INFO 3/16/2021, 3:04:23 PM  addRecentFolder
+INFO 3/16/2021, 3:04:24 PM  [blur] 1
+INFO 3/16/2021, 3:04:24 PM  [focus] 1
+INFO 3/16/2021, 3:04:27 PM  switchDocument 1 [/home/arjun/notes/How the Fuck am I gonna survive.md]
+INFO 3/16/2021, 3:04:27 PM  addRecentDocument
+INFO 3/16/2021, 3:04:36 PM  [blur] 1
+INFO 3/16/2021, 3:04:40 PM  [focus] 1
+INFO 3/16/2021, 3:05:22 PM  [blur] 1
+INFO 3/16/2021, 3:05:31 PM  [focus] 1
+INFO 3/16/2021, 3:05:32 PM  [blur] 1
+INFO 3/16/2021, 3:09:30 PM  [focus] 1
+INFO 3/16/2021, 3:09:31 PM  [blur] 1
+INFO 3/16/2021, 3:10:01 PM  [focus] 1
+INFO 3/16/2021, 3:10:02 PM  [blur] 1
+INFO 3/16/2021, 3:10:04 PM  [focus] 1
+INFO 3/16/2021, 3:10:04 PM  [blur] 1
+INFO 3/16/2021, 3:10:57 PM  [focus] 1
+INFO 3/16/2021, 3:10:57 PM  [blur] 1
+INFO 3/16/2021, 3:21:45 PM  [focus] 1
+INFO 3/16/2021, 3:21:45 PM  [blur] 1
+INFO 3/16/2021, 3:22:56 PM  [focus] 1
+INFO 3/16/2021, 3:22:56 PM  [blur] 1
+INFO 3/16/2021, 3:23:48 PM  [focus] 1
+INFO 3/16/2021, 3:23:49 PM  [blur] 1
+INFO 3/16/2021, 3:32:42 PM  [focus] 1
+INFO 3/16/2021, 3:32:42 PM  [blur] 1
+INFO 3/16/2021, 3:34:05 PM  [focus] 1
+INFO 3/16/2021, 3:34:06 PM  [blur] 1
+INFO 3/16/2021, 4:02:13 PM  [focus] 1
+INFO 3/16/2021, 4:02:14 PM  [blur] 1
+INFO 3/16/2021, 4:20:03 PM  [focus] 1
+INFO 3/16/2021, 4:20:04 PM  [blur] 1
+INFO 3/16/2021, 4:24:11 PM  [focus] 1
+INFO 3/16/2021, 4:24:12 PM  [blur] 1
+INFO 3/16/2021, 4:25:45 PM  [focus] 1
+INFO 3/16/2021, 4:25:46 PM  [blur] 1
+INFO 3/16/2021, 4:29:42 PM  [focus] 1
+INFO 3/16/2021, 4:29:43 PM  [blur] 1
+INFO 3/16/2021, 4:45:11 PM  [focus] 1
+INFO 3/16/2021, 4:45:12 PM  [blur] 1
+INFO 3/16/2021, 4:48:55 PM  [focus] 1
+INFO 3/16/2021, 4:48:55 PM  [blur] 1
+INFO 3/16/2021, 4:48:57 PM  [focus] 1
+INFO 3/16/2021, 4:48:58 PM  [blur] 1
+INFO 3/16/2021, 4:49:00 PM  [focus] 1
+INFO 3/16/2021, 4:49:01 PM  [blur] 1
+INFO 3/16/2021, 4:51:34 PM  [focus] 1
+INFO 3/16/2021, 4:51:43 PM  [blur] 1
+INFO 3/16/2021, 4:56:25 PM  [focus] 1
+INFO 3/16/2021, 4:56:25 PM  [blur] 1
+INFO 3/16/2021, 4:59:36 PM  [focus] 1
+INFO 3/16/2021, 4:59:38 PM  [blur] 1
+INFO 3/16/2021, 5:05:02 PM  [focus] 1
+INFO 3/16/2021, 5:05:03 PM  [blur] 1
+INFO 3/16/2021, 5:05:06 PM  [focus] 1
+INFO 3/16/2021, 5:05:41 PM  [blur] 1
+INFO 3/16/2021, 5:15:43 PM  ------------------start------------------
+INFO 3/16/2021, 5:15:43 PM  typora version: 0.9.98
+DEBUG 3/16/2021, 5:15:43 PM  [ '/usr/share/typora/Typora' ]
+INFO 3/16/2021, 5:15:43 PM  [Raven] instanceKey = 86d7a1eb-ba68-4c4b-a85e-7b9869cd3a88
+INFO 3/16/2021, 5:15:44 PM  launch from abnormal quit
+INFO 3/16/2021, 5:15:44 PM  recoverWindow {"id":1,"path":"/home/arjun/notes/How the Fuck am I gonna survive.md","useCRLF":false,"hasUnsaved":false,"scrollPos":0,"syncDate":1615921467623,"mountFolder":"/home/arjun/notes"}
+DEBUG 3/16/2021, 5:15:44 PM  app.openFile
+INFO 3/16/2021, 5:15:44 PM  addRecentDocument
+INFO 3/16/2021, 5:15:44 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/16/2021, 5:15:44 PM  [focus] 1
+INFO 3/16/2021, 5:15:44 PM  handle document.loadInitData
+INFO 3/16/2021, 5:16:04 PM  [blur] 1
+INFO 3/16/2021, 5:21:33 PM  [focus] 1
+INFO 3/16/2021, 5:21:35 PM  [blur] 1
+INFO 3/16/2021, 5:23:57 PM  [focus] 1
+INFO 3/16/2021, 5:23:58 PM  [blur] 1
+INFO 3/16/2021, 5:29:25 PM  [focus] 1
+INFO 3/16/2021, 5:29:26 PM  [blur] 1
+INFO 3/16/2021, 5:29:50 PM  [focus] 1
+INFO 3/16/2021, 5:29:50 PM  [blur] 1
+INFO 3/16/2021, 5:29:57 PM  [focus] 1
+INFO 3/16/2021, 5:29:58 PM  [blur] 1
+INFO 3/16/2021, 5:30:09 PM  [focus] 1
+INFO 3/16/2021, 5:30:09 PM  [blur] 1
+INFO 3/16/2021, 5:30:53 PM  [focus] 1
+INFO 3/16/2021, 5:30:58 PM  [blur] 1
+INFO 3/16/2021, 5:30:59 PM  [focus] 1
+INFO 3/16/2021, 5:31:00 PM  [blur] 1
+INFO 3/16/2021, 5:31:01 PM  [focus] 1
+INFO 3/16/2021, 5:31:02 PM  [blur] 1
+INFO 3/16/2021, 5:32:34 PM  [focus] 1
+INFO 3/16/2021, 5:32:35 PM  [blur] 1
+INFO 3/16/2021, 5:32:56 PM  [focus] 1
+INFO 3/16/2021, 5:32:58 PM  [blur] 1
+INFO 3/16/2021, 5:36:34 PM  [focus] 1
+INFO 3/16/2021, 5:36:35 PM  [blur] 1
+INFO 3/16/2021, 5:39:02 PM  [focus] 1
+INFO 3/16/2021, 5:39:03 PM  [blur] 1
+INFO 3/16/2021, 5:39:03 PM  [focus] 1
+INFO 3/16/2021, 5:39:04 PM  [blur] 1
+INFO 3/16/2021, 5:39:22 PM  [focus] 1
+INFO 3/16/2021, 5:39:22 PM  [blur] 1
+INFO 3/16/2021, 5:39:24 PM  [focus] 1
+INFO 3/16/2021, 5:39:24 PM  [blur] 1
+INFO 3/16/2021, 5:46:57 PM  [focus] 1
+INFO 3/16/2021, 5:46:58 PM  [blur] 1
+INFO 3/16/2021, 5:56:55 PM  [focus] 1
+INFO 3/16/2021, 5:56:57 PM  [blur] 1
+INFO 3/16/2021, 5:56:57 PM  [focus] 1
+INFO 3/16/2021, 5:56:58 PM  [blur] 1
+INFO 3/16/2021, 5:58:10 PM  [focus] 1
+INFO 3/16/2021, 5:58:10 PM  [blur] 1
+INFO 3/16/2021, 5:59:22 PM  [focus] 1
+INFO 3/16/2021, 5:59:22 PM  [blur] 1
+INFO 3/16/2021, 6:01:37 PM  [focus] 1
+INFO 3/16/2021, 6:01:37 PM  [blur] 1
+INFO 3/16/2021, 6:02:49 PM  [focus] 1
+INFO 3/16/2021, 6:02:50 PM  [blur] 1
+INFO 3/16/2021, 7:45:50 PM  [focus] 1
+INFO 3/16/2021, 7:46:00 PM  [blur] 1
+INFO 3/16/2021, 7:46:05 PM  [focus] 1
+INFO 3/16/2021, 7:46:06 PM  [blur] 1
+INFO 3/16/2021, 7:47:08 PM  [focus] 1
+INFO 3/16/2021, 7:47:26 PM  [blur] 1
+INFO 3/16/2021, 7:58:41 PM  [focus] 1
+INFO 3/16/2021, 7:58:42 PM  ----------------before-quit-----------------
+INFO 3/16/2021, 7:58:42 PM  ------------------will-quit------------------
+INFO 3/16/2021, 8:07:05 PM  ------------------start------------------
+INFO 3/16/2021, 8:07:05 PM  typora version: 0.9.98
+DEBUG 3/16/2021, 8:07:05 PM  [ '/usr/share/typora/Typora' ]
+INFO 3/16/2021, 8:07:05 PM  [Raven] instanceKey = c009ff77-ded0-4188-8628-66e0fa493dbf
+DEBUG 3/16/2021, 8:07:05 PM  pinFolder /home/arjun/notes
+DEBUG 3/16/2021, 8:07:05 PM  app.openFile
+INFO 3/16/2021, 8:07:05 PM  [focus] 1
+INFO 3/16/2021, 8:07:05 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/16/2021, 8:07:06 PM  handle document.loadInitData
+INFO 3/16/2021, 8:07:06 PM  addRecentFolder
+INFO 3/16/2021, 8:07:13 PM  [blur] 1
+INFO 3/16/2021, 8:07:15 PM  [focus] 1
+INFO 3/16/2021, 8:07:17 PM  [blur] 1
+INFO 3/16/2021, 8:07:18 PM  [focus] 1
+INFO 3/16/2021, 8:07:18 PM  [blur] 1
+INFO 3/16/2021, 8:07:18 PM  [focus] 1
+INFO 3/16/2021, 8:07:18 PM  [blur] 1
+INFO 3/16/2021, 8:07:19 PM  [focus] 1
+INFO 3/16/2021, 8:07:19 PM  [blur] 1
+INFO 3/16/2021, 8:07:19 PM  [focus] 1
+INFO 3/16/2021, 8:07:19 PM  [blur] 1
+INFO 3/16/2021, 8:07:19 PM  [focus] 1
+DEBUG 3/16/2021, 8:07:19 PM  false
+INFO 3/16/2021, 8:07:19 PM  addRecentDocument
+INFO 3/16/2021, 8:08:18 PM  [blur] 1
+INFO 3/16/2021, 8:47:34 PM  The system is going to sleep
+INFO 3/16/2021, 9:00:16 PM  [focus] 1
+INFO 3/16/2021, 9:00:17 PM  ----------------before-quit-----------------
+INFO 3/16/2021, 9:00:17 PM  ------------------will-quit------------------
+INFO 3/18/2021, 12:54:35 AM  ------------------start------------------
+INFO 3/18/2021, 12:54:35 AM  typora version: 0.9.98
+DEBUG 3/18/2021, 12:54:35 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/18/2021, 12:54:35 AM  [Raven] instanceKey = 117b9591-e200-42aa-989f-c775088ee8bc
+DEBUG 3/18/2021, 12:54:35 AM  pinFolder /home/arjun/notes
+DEBUG 3/18/2021, 12:54:35 AM  app.openFile
+INFO 3/18/2021, 12:54:35 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/18/2021, 12:54:35 AM  [focus] 1
+INFO 3/18/2021, 12:54:36 AM  handle document.loadInitData
+INFO 3/18/2021, 12:54:36 AM  [blur] 1
+INFO 3/18/2021, 12:54:36 AM  addRecentFolder
+INFO 3/18/2021, 12:54:38 AM  [focus] 1
+INFO 3/18/2021, 12:54:42 AM  switchDocument 1 [/home/arjun/notes/How the Fuck am I gonna survive.md]
+INFO 3/18/2021, 12:54:42 AM  addRecentDocument
+INFO 3/18/2021, 12:58:29 AM  [blur] 1
+INFO 3/18/2021, 12:59:03 AM  [focus] 1
+INFO 3/18/2021, 12:59:17 AM  [blur] 1
+INFO 3/18/2021, 1:00:41 AM  [focus] 1
+INFO 3/18/2021, 1:00:45 AM  [blur] 1
+INFO 3/18/2021, 1:15:46 AM  [focus] 1
+INFO 3/18/2021, 1:15:47 AM  [blur] 1
+INFO 3/18/2021, 1:19:12 AM  [focus] 1
+INFO 3/18/2021, 1:19:13 AM  [blur] 1
+INFO 3/18/2021, 1:19:15 AM  [focus] 1
+INFO 3/18/2021, 1:19:15 AM  [blur] 1
+INFO 3/18/2021, 1:38:08 AM  [focus] 1
+INFO 3/18/2021, 1:38:09 AM  [blur] 1
+INFO 3/18/2021, 1:40:43 AM  [focus] 1
+INFO 3/18/2021, 1:40:44 AM  [blur] 1
+INFO 3/18/2021, 1:46:25 AM  [focus] 1
+INFO 3/18/2021, 1:46:25 AM  [blur] 1
+INFO 3/18/2021, 2:26:34 AM  [focus] 1
+INFO 3/18/2021, 2:26:35 AM  [blur] 1
+INFO 3/18/2021, 2:40:11 AM  [focus] 1
+INFO 3/18/2021, 2:40:12 AM  [blur] 1
+INFO 3/18/2021, 3:04:19 AM  [focus] 1
+INFO 3/18/2021, 3:04:20 AM  [blur] 1
+INFO 3/18/2021, 3:33:00 AM  [focus] 1
+INFO 3/18/2021, 3:33:01 AM  [blur] 1
+INFO 3/18/2021, 3:35:43 AM  The system is going to sleep
+INFO 3/18/2021, 3:38:12 AM  [focus] 1
+INFO 3/18/2021, 3:38:12 AM  [blur] 1
+INFO 3/18/2021, 3:52:04 AM  [focus] 1
+INFO 3/18/2021, 3:52:05 AM  [blur] 1
+INFO 3/18/2021, 4:25:10 AM  ----------------before-quit-----------------
+INFO 3/18/2021, 7:03:10 AM  ------------------start------------------
+INFO 3/18/2021, 7:03:10 AM  typora version: 0.9.98
+DEBUG 3/18/2021, 7:03:10 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/18/2021, 7:03:10 AM  [Raven] instanceKey = 94f5c845-210d-4214-9a30-ed42885495b8
+DEBUG 3/18/2021, 7:03:10 AM  pinFolder /home/arjun/notes
+DEBUG 3/18/2021, 7:03:10 AM  app.openFile
+INFO 3/18/2021, 7:03:10 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/18/2021, 7:03:10 AM  [focus] 1
+INFO 3/18/2021, 7:03:11 AM  handle document.loadInitData
+INFO 3/18/2021, 7:03:11 AM  addRecentFolder
+INFO 3/18/2021, 7:03:13 AM  switchDocument 1 [/home/arjun/notes/How the Fuck am I gonna survive.md]
+INFO 3/18/2021, 7:03:13 AM  addRecentDocument
+INFO 3/18/2021, 7:37:58 AM  The system is going to sleep
+INFO 3/18/2021, 8:50:48 AM  ----------------before-quit-----------------
+INFO 3/18/2021, 8:50:48 AM  ------------------will-quit------------------
+INFO 3/19/2021, 7:05:46 PM  ------------------start------------------
+INFO 3/19/2021, 7:05:46 PM  typora version: 0.9.98
+DEBUG 3/19/2021, 7:05:46 PM  [ '/usr/share/typora/Typora' ]
+INFO 3/19/2021, 7:05:46 PM  [Raven] instanceKey = 41222efe-25b9-4b4f-baa4-4e1a17dddb7a
+DEBUG 3/19/2021, 7:05:46 PM  pinFolder /home/arjun/notes
+DEBUG 3/19/2021, 7:05:46 PM  app.openFile
+INFO 3/19/2021, 7:05:46 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/19/2021, 7:05:46 PM  [focus] 1
+INFO 3/19/2021, 7:05:46 PM  handle document.loadInitData
+INFO 3/19/2021, 7:05:47 PM  addRecentFolder
+INFO 3/19/2021, 7:05:49 PM  switchDocument 1 [/home/arjun/notes/How the Fuck am I gonna survive.md]
+INFO 3/19/2021, 7:05:49 PM  addRecentDocument
+INFO 3/19/2021, 7:06:05 PM  [blur] 1
+INFO 3/19/2021, 7:07:15 PM  [focus] 1
+INFO 3/19/2021, 7:07:16 PM  [blur] 1
+INFO 3/19/2021, 7:07:22 PM  [focus] 1
+INFO 3/19/2021, 7:08:30 PM  [blur] 1
+INFO 3/19/2021, 7:10:06 PM  [focus] 1
+INFO 3/19/2021, 7:10:29 PM  ----------------before-quit-----------------
+INFO 3/19/2021, 7:10:29 PM  ------------------will-quit------------------
+INFO 3/20/2021, 11:15:38 AM  ------------------start------------------
+INFO 3/20/2021, 11:15:38 AM  typora version: 0.9.98
+DEBUG 3/20/2021, 11:15:38 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/20/2021, 11:15:38 AM  [Raven] instanceKey = b5f2fad3-1a54-45cf-8669-9cdde121d3f6
+DEBUG 3/20/2021, 11:15:38 AM  pinFolder /home/arjun/notes
+DEBUG 3/20/2021, 11:15:38 AM  app.openFile
+INFO 3/20/2021, 11:15:38 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/20/2021, 11:15:38 AM  [focus] 1
+INFO 3/20/2021, 11:15:38 AM  handle document.loadInitData
+INFO 3/20/2021, 11:15:38 AM  addRecentFolder
+INFO 3/20/2021, 11:15:42 AM  switchDocument 1 [/home/arjun/notes/How the Fuck am I gonna survive.md]
+INFO 3/20/2021, 11:15:42 AM  addRecentDocument
+INFO 3/24/2021, 7:45:30 AM  ------------------start------------------
+INFO 3/24/2021, 7:45:30 AM  typora version: 0.9.98
+DEBUG 3/24/2021, 7:45:30 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/24/2021, 7:45:30 AM  [Raven] instanceKey = 40ce734f-badf-4f3f-a91f-df70371a346b
+INFO 3/24/2021, 7:45:30 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/24/2021, 7:45:30 AM  launch from abnormal quit
+INFO 3/24/2021, 7:45:30 AM  recoverWindow {"id":1,"path":"/home/arjun/notes/How the Fuck am I gonna survive.md","useCRLF":false,"hasUnsaved":false,"scrollPos":0,"syncDate":1616253519103,"mountFolder":"/home/arjun/notes"}
+DEBUG 3/24/2021, 7:45:30 AM  app.openFile
+INFO 3/24/2021, 7:45:30 AM  addRecentDocument
+INFO 3/24/2021, 7:45:30 AM  [focus] 1
+INFO 3/24/2021, 7:45:31 AM  handle document.loadInitData
+INFO 3/24/2021, 7:48:53 AM  [blur] 1
+INFO 3/24/2021, 7:49:23 AM  [focus] 1
+INFO 3/24/2021, 7:49:24 AM  [blur] 1
+INFO 3/24/2021, 7:50:08 AM  [focus] 1
+INFO 3/24/2021, 7:51:03 AM  [blur] 1
+INFO 3/24/2021, 7:58:28 AM  The system is going to sleep
+INFO 3/24/2021, 8:47:04 AM  [focus] 1
+INFO 3/24/2021, 8:47:05 AM  [blur] 1
+INFO 3/24/2021, 8:47:06 AM  [focus] 1
+INFO 3/24/2021, 8:47:06 AM  [blur] 1
+INFO 3/24/2021, 8:47:08 AM  [focus] 1
+INFO 3/24/2021, 8:47:09 AM  [blur] 1
+INFO 3/24/2021, 8:48:14 AM  [focus] 1
+INFO 3/24/2021, 8:48:16 AM  [blur] 1
+INFO 3/24/2021, 8:50:46 AM  [focus] 1
+INFO 3/24/2021, 8:50:48 AM  [blur] 1
+INFO 3/24/2021, 8:50:49 AM  [focus] 1
+INFO 3/24/2021, 8:50:52 AM  [blur] 1
+INFO 3/24/2021, 9:09:36 AM  [focus] 1
+INFO 3/24/2021, 9:09:38 AM  [blur] 1
+INFO 3/24/2021, 9:14:33 AM  [focus] 1
+INFO 3/24/2021, 9:14:35 AM  [blur] 1
+INFO 3/24/2021, 9:14:36 AM  [focus] 1
+INFO 3/24/2021, 9:14:36 AM  [blur] 1
+INFO 3/24/2021, 9:20:09 AM  [focus] 1
+INFO 3/24/2021, 9:20:10 AM  [blur] 1
+INFO 3/24/2021, 9:36:09 AM  [focus] 1
+INFO 3/24/2021, 9:36:10 AM  [blur] 1
+INFO 3/24/2021, 9:41:29 AM  [focus] 1
+INFO 3/24/2021, 9:41:29 AM  [blur] 1
+INFO 3/24/2021, 9:45:42 AM  [focus] 1
+INFO 3/24/2021, 9:45:43 AM  [blur] 1
+INFO 3/24/2021, 9:45:43 AM  [focus] 1
+INFO 3/24/2021, 9:45:43 AM  [blur] 1
+INFO 3/24/2021, 9:45:43 AM  [focus] 1
+INFO 3/24/2021, 9:45:44 AM  [blur] 1
+INFO 3/24/2021, 9:50:21 AM  [focus] 1
+INFO 3/24/2021, 9:50:22 AM  [blur] 1
+INFO 3/24/2021, 9:50:23 AM  [focus] 1
+INFO 3/24/2021, 9:50:24 AM  [blur] 1
+INFO 3/24/2021, 9:51:53 AM  The system is going to sleep
+INFO 3/24/2021, 9:01:19 PM  [focus] 1
+INFO 3/24/2021, 9:01:21 PM  ----------------before-quit-----------------
+INFO 3/24/2021, 9:01:21 PM  ------------------will-quit------------------
+INFO 3/25/2021, 8:11:33 AM  ------------------start------------------
+INFO 3/25/2021, 8:11:33 AM  typora version: 0.9.98
+DEBUG 3/25/2021, 8:11:33 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/25/2021, 8:11:33 AM  [Raven] instanceKey = 99857372-cf09-46ab-a270-2e50a1bfb109
+DEBUG 3/25/2021, 8:11:33 AM  pinFolder /home/arjun/notes
+DEBUG 3/25/2021, 8:11:33 AM  app.openFile
+INFO 3/25/2021, 8:11:33 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/25/2021, 8:11:33 AM  [focus] 1
+INFO 3/25/2021, 8:11:34 AM  handle document.loadInitData
+INFO 3/25/2021, 8:11:34 AM  addRecentFolder
+INFO 3/25/2021, 8:11:35 AM  [blur] 1
+INFO 3/25/2021, 8:11:35 AM  [focus] 1
+INFO 3/25/2021, 8:11:38 AM  switchDocument 1 [/home/arjun/notes/How the Fuck am I gonna survive.md]
+INFO 3/25/2021, 8:11:38 AM  addRecentDocument
+INFO 3/25/2021, 8:11:40 AM  [blur] 1
+INFO 3/25/2021, 8:18:32 AM  [focus] 1
+INFO 3/25/2021, 8:18:34 AM  [blur] 1
+INFO 3/25/2021, 8:19:40 AM  [focus] 1
+INFO 3/25/2021, 8:24:12 AM  [blur] 1
+INFO 3/25/2021, 8:25:20 AM  [focus] 1
+INFO 3/25/2021, 8:25:21 AM  [blur] 1
+INFO 3/25/2021, 8:25:21 AM  [focus] 1
+INFO 3/25/2021, 8:25:23 AM  [blur] 1
+INFO 3/25/2021, 10:37:08 AM  [focus] 1
+INFO 3/25/2021, 10:37:10 AM  [blur] 1
+INFO 3/25/2021, 10:37:13 AM  [focus] 1
+INFO 3/25/2021, 10:37:13 AM  [blur] 1
+INFO 3/25/2021, 10:37:25 AM  [focus] 1
+INFO 3/25/2021, 10:37:26 AM  [blur] 1
+INFO 3/25/2021, 10:40:33 AM  [focus] 1
+INFO 3/25/2021, 10:40:34 AM  [blur] 1
+INFO 3/25/2021, 10:42:49 AM  [focus] 1
+INFO 3/25/2021, 10:42:50 AM  [blur] 1
+INFO 3/25/2021, 10:43:45 AM  [focus] 1
+INFO 3/25/2021, 10:43:46 AM  [blur] 1
+INFO 3/25/2021, 11:19:52 AM  The system is going to sleep
+INFO 3/25/2021, 12:59:07 PM  [focus] 1
+INFO 3/25/2021, 12:59:08 PM  ----------------before-quit-----------------
+INFO 3/25/2021, 12:59:08 PM  ------------------will-quit------------------
+INFO 3/26/2021, 6:50:31 PM  ------------------start------------------
+INFO 3/26/2021, 6:50:31 PM  typora version: 0.9.98
+DEBUG 3/26/2021, 6:50:31 PM  [ '/usr/share/typora/Typora' ]
+INFO 3/26/2021, 6:50:31 PM  [Raven] instanceKey = 28e78290-5155-41a6-87fa-5435871171c1
+DEBUG 3/26/2021, 6:50:31 PM  pinFolder /home/arjun/notes
+DEBUG 3/26/2021, 6:50:31 PM  app.openFile
+INFO 3/26/2021, 6:50:31 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/26/2021, 6:50:31 PM  [focus] 1
+INFO 3/26/2021, 6:50:32 PM  handle document.loadInitData
+INFO 3/26/2021, 6:50:32 PM  addRecentFolder
+INFO 3/26/2021, 6:50:34 PM  switchDocument 1 [/home/arjun/notes/How the Fuck am I gonna survive.md]
+INFO 3/26/2021, 6:50:34 PM  addRecentDocument
+INFO 3/26/2021, 6:52:38 PM  [blur] 1
+INFO 3/26/2021, 6:55:52 PM  [focus] 1
+INFO 3/26/2021, 6:56:08 PM  [blur] 1
+INFO 3/26/2021, 7:00:38 PM  [focus] 1
+INFO 3/26/2021, 7:00:39 PM  [blur] 1
+INFO 3/26/2021, 7:07:37 PM  [focus] 1
+INFO 3/26/2021, 7:08:47 PM  [blur] 1
+INFO 3/26/2021, 7:09:08 PM  [focus] 1
+INFO 3/26/2021, 7:09:09 PM  [blur] 1
+INFO 3/26/2021, 7:09:20 PM  [focus] 1
+INFO 3/26/2021, 7:09:20 PM  [blur] 1
+INFO 3/26/2021, 7:09:21 PM  [focus] 1
+INFO 3/26/2021, 7:09:35 PM  The system is going to sleep
+INFO 3/26/2021, 7:12:53 PM  [blur] 1
+INFO 3/26/2021, 7:13:23 PM  [focus] 1
+INFO 3/26/2021, 7:13:24 PM  [blur] 1
+INFO 3/26/2021, 7:13:25 PM  [focus] 1
+INFO 3/26/2021, 7:13:29 PM  [blur] 1
+INFO 3/26/2021, 7:13:32 PM  [focus] 1
+INFO 3/26/2021, 7:13:32 PM  [blur] 1
+INFO 3/26/2021, 7:14:21 PM  [focus] 1
+INFO 3/26/2021, 7:14:22 PM  [blur] 1
+INFO 3/26/2021, 7:26:40 PM  [focus] 1
+INFO 3/26/2021, 7:26:41 PM  [blur] 1
+INFO 3/26/2021, 7:26:42 PM  [focus] 1
+INFO 3/26/2021, 7:27:00 PM  [blur] 1
+INFO 3/26/2021, 7:29:08 PM  [focus] 1
+INFO 3/26/2021, 7:29:24 PM  [blur] 1
+INFO 3/26/2021, 7:29:27 PM  [focus] 1
+INFO 3/26/2021, 7:29:28 PM  [blur] 1
+INFO 3/26/2021, 7:30:41 PM  [focus] 1
+INFO 3/26/2021, 7:31:10 PM  [blur] 1
+INFO 3/26/2021, 7:31:12 PM  [focus] 1
+INFO 3/26/2021, 7:31:12 PM  [blur] 1
+INFO 3/26/2021, 7:31:14 PM  [focus] 1
+INFO 3/26/2021, 7:31:14 PM  [blur] 1
+INFO 3/26/2021, 7:31:54 PM  [focus] 1
+INFO 3/26/2021, 7:31:54 PM  [blur] 1
+INFO 3/26/2021, 7:31:57 PM  [focus] 1
+INFO 3/26/2021, 7:31:57 PM  [blur] 1
+INFO 3/26/2021, 7:31:58 PM  [focus] 1
+INFO 3/26/2021, 7:31:58 PM  [blur] 1
+INFO 3/26/2021, 8:02:26 PM  [focus] 1
+INFO 3/26/2021, 8:02:27 PM  [blur] 1
+INFO 3/26/2021, 8:05:01 PM  [focus] 1
+INFO 3/26/2021, 8:05:01 PM  [blur] 1
+INFO 3/26/2021, 8:05:14 PM  [focus] 1
+INFO 3/26/2021, 8:05:15 PM  [blur] 1
+INFO 3/26/2021, 8:05:19 PM  [focus] 1
+INFO 3/26/2021, 8:05:20 PM  [blur] 1
+INFO 3/26/2021, 8:05:23 PM  [focus] 1
+INFO 3/26/2021, 8:05:24 PM  [blur] 1
+INFO 3/26/2021, 8:11:49 PM  [focus] 1
+INFO 3/26/2021, 8:11:59 PM  [blur] 1
+INFO 3/26/2021, 8:13:29 PM  [focus] 1
+INFO 3/26/2021, 8:13:29 PM  [blur] 1
+INFO 3/26/2021, 8:13:31 PM  [focus] 1
+INFO 3/26/2021, 8:13:32 PM  [blur] 1
+INFO 3/26/2021, 8:13:32 PM  [focus] 1
+INFO 3/26/2021, 8:13:32 PM  [blur] 1
+INFO 3/26/2021, 8:13:33 PM  [focus] 1
+INFO 3/26/2021, 8:13:33 PM  [blur] 1
+INFO 3/26/2021, 8:13:34 PM  [focus] 1
+INFO 3/26/2021, 8:13:35 PM  [blur] 1
+INFO 3/26/2021, 8:13:36 PM  [focus] 1
+INFO 3/26/2021, 8:14:46 PM  The system is going to sleep
+INFO 3/26/2021, 8:22:43 PM  ----------------before-quit-----------------
+INFO 3/26/2021, 8:22:43 PM  ------------------will-quit------------------
+INFO 3/28/2021, 4:29:00 PM  ------------------start------------------
+INFO 3/28/2021, 4:29:00 PM  typora version: 0.9.98
+DEBUG 3/28/2021, 4:29:00 PM  [ '/usr/share/typora/Typora' ]
+INFO 3/28/2021, 4:29:00 PM  [Raven] instanceKey = 13e7081a-9a29-4fdf-83ce-d0461e41d43c
+DEBUG 3/28/2021, 4:29:00 PM  pinFolder /home/arjun/notes
+DEBUG 3/28/2021, 4:29:00 PM  app.openFile
+INFO 3/28/2021, 4:29:00 PM  [focus] 1
+INFO 3/28/2021, 4:29:00 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/28/2021, 4:29:01 PM  handle document.loadInitData
+INFO 3/28/2021, 4:29:01 PM  addRecentFolder
+INFO 3/28/2021, 4:29:03 PM  switchDocument 1 [/home/arjun/notes/Untitled.md]
+INFO 3/28/2021, 4:29:03 PM  addRecentDocument
+INFO 3/28/2021, 4:29:16 PM  addRecentDocument
+INFO 3/28/2021, 4:31:15 PM  [blur] 1
+INFO 3/28/2021, 4:32:55 PM  [focus] 1
+INFO 3/28/2021, 4:32:56 PM  [blur] 1
+INFO 3/28/2021, 4:32:56 PM  [focus] 1
+INFO 3/28/2021, 4:32:56 PM  [blur] 1
+INFO 3/28/2021, 4:33:31 PM  [focus] 1
+INFO 3/28/2021, 4:33:31 PM  [blur] 1
+INFO 3/28/2021, 4:34:37 PM  [focus] 1
+INFO 3/28/2021, 4:34:38 PM  [blur] 1
+INFO 3/28/2021, 4:34:57 PM  [focus] 1
+INFO 3/28/2021, 4:34:58 PM  [blur] 1
+INFO 3/28/2021, 4:35:12 PM  [focus] 1
+INFO 3/28/2021, 4:35:12 PM  [blur] 1
+INFO 3/28/2021, 4:35:41 PM  [focus] 1
+INFO 3/28/2021, 4:35:42 PM  ondragstart /home/arjun/notes/how-to-python.md 
+INFO 3/28/2021, 4:36:01 PM  [blur] 1
+INFO 3/28/2021, 4:38:59 PM  [focus] 1
+INFO 3/28/2021, 4:38:59 PM  [blur] 1
+INFO 3/28/2021, 4:39:00 PM  [focus] 1
+INFO 3/28/2021, 4:39:02 PM  [blur] 1
+INFO 3/28/2021, 4:39:03 PM  [focus] 1
+INFO 3/28/2021, 4:39:03 PM  [blur] 1
+INFO 3/28/2021, 4:39:03 PM  [focus] 1
+INFO 3/28/2021, 4:39:04 PM  [blur] 1
+INFO 3/28/2021, 4:39:10 PM  [focus] 1
+INFO 3/28/2021, 4:39:11 PM  [blur] 1
+INFO 3/28/2021, 4:39:15 PM  [focus] 1
+INFO 3/28/2021, 4:39:16 PM  [blur] 1
+INFO 3/28/2021, 4:39:46 PM  [focus] 1
+INFO 3/28/2021, 4:39:47 PM  [blur] 1
+INFO 3/28/2021, 4:39:47 PM  [focus] 1
+INFO 3/28/2021, 4:39:55 PM  [blur] 1
+INFO 3/28/2021, 4:40:07 PM  [focus] 1
+INFO 3/28/2021, 4:40:07 PM  [blur] 1
+INFO 3/28/2021, 4:40:08 PM  [focus] 1
+INFO 3/28/2021, 4:40:09 PM  [blur] 1
+INFO 3/28/2021, 4:40:09 PM  [focus] 1
+INFO 3/28/2021, 4:40:29 PM  [blur] 1
+INFO 3/28/2021, 4:40:32 PM  [focus] 1
+INFO 3/28/2021, 4:40:32 PM  [blur] 1
+INFO 3/28/2021, 4:40:32 PM  [focus] 1
+INFO 3/28/2021, 4:40:33 PM  [blur] 1
+INFO 3/28/2021, 4:40:33 PM  [focus] 1
+INFO 3/28/2021, 4:41:00 PM  [blur] 1
+INFO 3/28/2021, 4:41:30 PM  [focus] 1
+INFO 3/28/2021, 4:41:31 PM  [blur] 1
+INFO 3/28/2021, 4:41:31 PM  [focus] 1
+INFO 3/28/2021, 4:41:31 PM  [blur] 1
+INFO 3/28/2021, 4:41:32 PM  [focus] 1
+INFO 3/28/2021, 4:41:43 PM  [blur] 1
+INFO 3/28/2021, 4:41:44 PM  [focus] 1
+INFO 3/28/2021, 4:41:44 PM  [blur] 1
+INFO 3/28/2021, 4:41:46 PM  [focus] 1
+INFO 3/28/2021, 4:41:53 PM  [blur] 1
+INFO 3/28/2021, 4:42:10 PM  [focus] 1
+INFO 3/28/2021, 4:42:41 PM  [blur] 1
+INFO 3/28/2021, 4:42:41 PM  [focus] 1
+INFO 3/28/2021, 4:42:42 PM  [blur] 1
+INFO 3/28/2021, 4:43:10 PM  [focus] 1
+INFO 3/28/2021, 4:44:06 PM  [blur] 1
+INFO 3/28/2021, 4:44:18 PM  [focus] 1
+INFO 3/28/2021, 4:44:19 PM  [blur] 1
+INFO 3/28/2021, 4:46:41 PM  [focus] 1
+INFO 3/28/2021, 4:46:41 PM  [blur] 1
+INFO 3/28/2021, 4:46:42 PM  [focus] 1
+INFO 3/28/2021, 4:46:44 PM  [blur] 1
+INFO 3/28/2021, 4:46:45 PM  [focus] 1
+INFO 3/28/2021, 4:46:46 PM  [blur] 1
+INFO 3/28/2021, 4:46:50 PM  [focus] 1
+INFO 3/28/2021, 4:46:50 PM  [blur] 1
+INFO 3/28/2021, 4:46:53 PM  [focus] 1
+INFO 3/28/2021, 4:47:38 PM  [blur] 1
+INFO 3/28/2021, 4:47:45 PM  [focus] 1
+INFO 3/28/2021, 4:47:59 PM  [blur] 1
+INFO 3/28/2021, 4:47:59 PM  [focus] 1
+INFO 3/28/2021, 4:48:00 PM  [blur] 1
+INFO 3/28/2021, 4:48:00 PM  [focus] 1
+INFO 3/28/2021, 4:50:43 PM  [blur] 1
+INFO 3/28/2021, 4:50:44 PM  [focus] 1
+INFO 3/28/2021, 4:50:45 PM  [blur] 1
+INFO 3/28/2021, 4:50:46 PM  [focus] 1
+INFO 3/28/2021, 4:51:05 PM  [blur] 1
+INFO 3/28/2021, 4:51:22 PM  [focus] 1
+INFO 3/28/2021, 4:51:24 PM  [blur] 1
+INFO 3/28/2021, 4:51:26 PM  [focus] 1
+INFO 3/28/2021, 4:51:26 PM  [blur] 1
+INFO 3/28/2021, 4:51:27 PM  [focus] 1
+INFO 3/28/2021, 4:51:28 PM  [blur] 1
+INFO 3/28/2021, 4:51:28 PM  [focus] 1
+INFO 3/28/2021, 4:51:29 PM  [blur] 1
+INFO 3/28/2021, 4:51:30 PM  [focus] 1
+INFO 3/28/2021, 4:51:30 PM  [blur] 1
+INFO 3/28/2021, 4:51:32 PM  [focus] 1
+INFO 3/28/2021, 4:51:32 PM  [blur] 1
+INFO 3/28/2021, 4:51:34 PM  [focus] 1
+INFO 3/28/2021, 4:51:34 PM  [blur] 1
+INFO 3/28/2021, 4:51:38 PM  [focus] 1
+INFO 3/28/2021, 4:51:39 PM  [blur] 1
+INFO 3/28/2021, 4:51:39 PM  [focus] 1
+INFO 3/28/2021, 4:51:40 PM  [blur] 1
+INFO 3/28/2021, 4:51:41 PM  [focus] 1
+INFO 3/28/2021, 4:51:41 PM  [blur] 1
+INFO 3/28/2021, 4:51:42 PM  [focus] 1
+INFO 3/28/2021, 4:51:42 PM  [blur] 1
+INFO 3/28/2021, 4:51:42 PM  [focus] 1
+INFO 3/28/2021, 4:51:42 PM  [blur] 1
+INFO 3/28/2021, 4:51:42 PM  [focus] 1
+INFO 3/28/2021, 4:51:53 PM  [blur] 1
+INFO 3/28/2021, 4:53:50 PM  [focus] 1
+INFO 3/28/2021, 4:53:57 PM  [blur] 1
+INFO 3/28/2021, 4:54:26 PM  [focus] 1
+INFO 3/28/2021, 4:54:26 PM  [blur] 1
+INFO 3/28/2021, 4:54:27 PM  [focus] 1
+INFO 3/28/2021, 4:54:33 PM  [blur] 1
+INFO 3/28/2021, 4:55:08 PM  [focus] 1
+INFO 3/28/2021, 4:55:31 PM  [blur] 1
+INFO 3/28/2021, 4:56:31 PM  [focus] 1
+INFO 3/28/2021, 4:56:33 PM  [blur] 1
+INFO 3/28/2021, 4:56:35 PM  [focus] 1
+INFO 3/28/2021, 4:57:07 PM  [blur] 1
+INFO 3/28/2021, 4:57:13 PM  [focus] 1
+INFO 3/28/2021, 4:57:19 PM  [blur] 1
+INFO 3/28/2021, 4:57:19 PM  [focus] 1
+INFO 3/28/2021, 4:57:21 PM  [blur] 1
+INFO 3/28/2021, 4:57:23 PM  [focus] 1
+INFO 3/28/2021, 4:57:23 PM  [blur] 1
+INFO 3/28/2021, 4:57:25 PM  [focus] 1
+INFO 3/28/2021, 4:57:25 PM  [blur] 1
+INFO 3/28/2021, 4:57:26 PM  [focus] 1
+INFO 3/28/2021, 4:57:43 PM  [blur] 1
+INFO 3/28/2021, 4:57:43 PM  [focus] 1
+INFO 3/28/2021, 4:57:43 PM  [blur] 1
+INFO 3/28/2021, 4:57:44 PM  [focus] 1
+INFO 3/28/2021, 4:57:44 PM  [blur] 1
+INFO 3/28/2021, 4:58:04 PM  [focus] 1
+INFO 3/28/2021, 4:59:04 PM  [blur] 1
+INFO 3/28/2021, 4:59:11 PM  [focus] 1
+INFO 3/28/2021, 4:59:27 PM  [blur] 1
+INFO 3/28/2021, 4:59:29 PM  [focus] 1
+INFO 3/28/2021, 4:59:34 PM  [blur] 1
+INFO 3/28/2021, 4:59:35 PM  [focus] 1
+INFO 3/28/2021, 4:59:39 PM  [blur] 1
+INFO 3/28/2021, 4:59:39 PM  [focus] 1
+INFO 3/28/2021, 4:59:40 PM  [blur] 1
+INFO 3/28/2021, 4:59:48 PM  [focus] 1
+INFO 3/28/2021, 5:01:49 PM  [blur] 1
+INFO 3/28/2021, 5:02:01 PM  [focus] 1
+INFO 3/28/2021, 5:02:16 PM  [blur] 1
+INFO 3/28/2021, 5:02:16 PM  [focus] 1
+INFO 3/28/2021, 5:02:17 PM  [blur] 1
+INFO 3/28/2021, 5:02:19 PM  [focus] 1
+INFO 3/28/2021, 5:02:19 PM  [blur] 1
+INFO 3/28/2021, 5:02:20 PM  [focus] 1
+INFO 3/28/2021, 5:03:04 PM  [blur] 1
+INFO 3/28/2021, 5:03:31 PM  The system is going to sleep
+INFO 3/28/2021, 5:17:10 PM  [focus] 1
+INFO 3/28/2021, 5:17:16 PM  [blur] 1
+INFO 3/28/2021, 5:17:20 PM  [focus] 1
+INFO 3/28/2021, 5:18:09 PM  [blur] 1
+INFO 3/28/2021, 5:18:13 PM  [focus] 1
+INFO 3/28/2021, 5:18:41 PM  [blur] 1
+INFO 3/28/2021, 5:18:43 PM  [focus] 1
+INFO 3/28/2021, 5:18:46 PM  [blur] 1
+INFO 3/28/2021, 5:19:00 PM  [focus] 1
+INFO 3/28/2021, 5:19:25 PM  [blur] 1
+INFO 3/28/2021, 5:19:26 PM  [focus] 1
+INFO 3/28/2021, 5:19:35 PM  [blur] 1
+INFO 3/28/2021, 5:19:36 PM  [focus] 1
+INFO 3/28/2021, 5:19:37 PM  [blur] 1
+INFO 3/28/2021, 5:19:39 PM  [focus] 1
+INFO 3/28/2021, 5:19:59 PM  [blur] 1
+INFO 3/28/2021, 5:20:11 PM  [focus] 1
+INFO 3/28/2021, 5:20:51 PM  [blur] 1
+INFO 3/28/2021, 5:20:55 PM  [focus] 1
+INFO 3/28/2021, 5:20:55 PM  [blur] 1
+INFO 3/28/2021, 5:20:57 PM  [focus] 1
+INFO 3/28/2021, 5:20:58 PM  [blur] 1
+INFO 3/28/2021, 5:21:16 PM  [focus] 1
+INFO 3/28/2021, 5:21:17 PM  [blur] 1
+INFO 3/28/2021, 5:21:21 PM  [focus] 1
+INFO 3/28/2021, 5:21:22 PM  [blur] 1
+INFO 3/28/2021, 5:21:28 PM  [focus] 1
+INFO 3/28/2021, 5:21:30 PM  [blur] 1
+INFO 3/28/2021, 5:21:30 PM  [focus] 1
+INFO 3/28/2021, 5:21:32 PM  [blur] 1
+INFO 3/28/2021, 5:21:33 PM  [focus] 1
+INFO 3/28/2021, 5:21:46 PM  [blur] 1
+INFO 3/28/2021, 5:21:55 PM  [focus] 1
+INFO 3/28/2021, 5:24:06 PM  [blur] 1
+INFO 3/28/2021, 5:24:22 PM  [focus] 1
+INFO 3/28/2021, 5:24:39 PM  [blur] 1
+INFO 3/28/2021, 5:24:40 PM  [focus] 1
+INFO 3/28/2021, 5:24:46 PM  [blur] 1
+INFO 3/28/2021, 5:24:47 PM  [focus] 1
+INFO 3/28/2021, 5:24:51 PM  [blur] 1
+INFO 3/28/2021, 5:24:54 PM  [focus] 1
+INFO 3/28/2021, 5:25:09 PM  [blur] 1
+INFO 3/28/2021, 5:25:25 PM  [focus] 1
+INFO 3/28/2021, 5:25:45 PM  [blur] 1
+INFO 3/28/2021, 5:25:48 PM  [focus] 1
+INFO 3/28/2021, 5:26:01 PM  [blur] 1
+INFO 3/28/2021, 5:26:03 PM  [focus] 1
+INFO 3/28/2021, 5:26:16 PM  [blur] 1
+INFO 3/28/2021, 5:26:17 PM  [focus] 1
+INFO 3/28/2021, 5:26:21 PM  [blur] 1
+INFO 3/28/2021, 5:26:21 PM  [focus] 1
+INFO 3/28/2021, 5:26:32 PM  [blur] 1
+INFO 3/28/2021, 5:26:33 PM  [focus] 1
+INFO 3/28/2021, 5:26:37 PM  [blur] 1
+INFO 3/28/2021, 5:26:50 PM  [focus] 1
+INFO 3/28/2021, 5:26:51 PM  [blur] 1
+INFO 3/28/2021, 5:26:58 PM  [focus] 1
+INFO 3/28/2021, 5:29:01 PM  [blur] 1
+INFO 3/28/2021, 5:29:06 PM  [focus] 1
+INFO 3/28/2021, 5:29:09 PM  [blur] 1
+INFO 3/28/2021, 5:29:17 PM  [focus] 1
+INFO 3/28/2021, 5:29:18 PM  [blur] 1
+INFO 3/28/2021, 5:29:18 PM  [focus] 1
+INFO 3/28/2021, 5:29:23 PM  [blur] 1
+INFO 3/28/2021, 5:29:24 PM  [focus] 1
+INFO 3/28/2021, 5:29:33 PM  [blur] 1
+INFO 3/28/2021, 5:29:36 PM  [focus] 1
+INFO 3/28/2021, 5:30:04 PM  [blur] 1
+INFO 3/28/2021, 5:30:47 PM  [focus] 1
+INFO 3/28/2021, 5:31:09 PM  [blur] 1
+INFO 3/28/2021, 5:31:14 PM  [focus] 1
+INFO 3/28/2021, 5:31:28 PM  [blur] 1
+INFO 3/28/2021, 5:32:02 PM  [focus] 1
+INFO 3/28/2021, 5:32:04 PM  [blur] 1
+INFO 3/28/2021, 5:32:19 PM  [focus] 1
+INFO 3/28/2021, 5:33:14 PM  [blur] 1
+INFO 3/28/2021, 5:33:19 PM  [focus] 1
+INFO 3/28/2021, 5:33:25 PM  [blur] 1
+INFO 3/28/2021, 5:33:30 PM  [focus] 1
+INFO 3/28/2021, 5:33:32 PM  [blur] 1
+INFO 3/28/2021, 5:33:56 PM  [focus] 1
+INFO 3/28/2021, 5:34:22 PM  [blur] 1
+INFO 3/28/2021, 5:34:36 PM  [focus] 1
+INFO 3/28/2021, 5:35:46 PM  [blur] 1
+INFO 3/28/2021, 5:35:51 PM  [focus] 1
+INFO 3/28/2021, 5:35:54 PM  [blur] 1
+INFO 3/28/2021, 5:36:10 PM  [focus] 1
+INFO 3/28/2021, 5:36:22 PM  [blur] 1
+INFO 3/28/2021, 5:36:23 PM  [focus] 1
+INFO 3/28/2021, 5:36:47 PM  [blur] 1
+INFO 3/28/2021, 5:36:51 PM  [focus] 1
+INFO 3/28/2021, 5:37:14 PM  [blur] 1
+INFO 3/28/2021, 5:37:15 PM  [focus] 1
+INFO 3/28/2021, 5:37:23 PM  [blur] 1
+INFO 3/28/2021, 5:37:50 PM  [focus] 1
+INFO 3/28/2021, 5:37:53 PM  [blur] 1
+INFO 3/28/2021, 5:37:54 PM  [focus] 1
+INFO 3/28/2021, 5:38:11 PM  [blur] 1
+INFO 3/28/2021, 5:38:12 PM  [focus] 1
+INFO 3/28/2021, 5:38:16 PM  [blur] 1
+INFO 3/28/2021, 5:38:17 PM  [focus] 1
+INFO 3/28/2021, 5:38:20 PM  [blur] 1
+INFO 3/28/2021, 5:38:20 PM  [focus] 1
+INFO 3/28/2021, 5:38:27 PM  [blur] 1
+INFO 3/28/2021, 5:38:33 PM  [focus] 1
+INFO 3/28/2021, 5:38:56 PM  [blur] 1
+INFO 3/28/2021, 5:39:08 PM  [focus] 1
+INFO 3/28/2021, 5:39:08 PM  [blur] 1
+INFO 3/28/2021, 5:39:34 PM  [focus] 1
+INFO 3/28/2021, 5:39:35 PM  [blur] 1
+INFO 3/28/2021, 5:41:04 PM  [focus] 1
+INFO 3/28/2021, 5:41:05 PM  [blur] 1
+INFO 3/28/2021, 5:41:26 PM  [focus] 1
+INFO 3/28/2021, 5:41:34 PM  [blur] 1
+INFO 3/28/2021, 5:42:09 PM  [focus] 1
+INFO 3/28/2021, 5:42:10 PM  [blur] 1
+INFO 3/28/2021, 5:42:12 PM  [focus] 1
+INFO 3/28/2021, 5:42:13 PM  [blur] 1
+INFO 3/28/2021, 5:42:38 PM  [focus] 1
+INFO 3/28/2021, 5:42:39 PM  [blur] 1
+INFO 3/28/2021, 5:42:49 PM  [focus] 1
+INFO 3/28/2021, 5:42:50 PM  [blur] 1
+INFO 3/28/2021, 5:42:52 PM  [focus] 1
+INFO 3/28/2021, 5:42:52 PM  [blur] 1
+INFO 3/28/2021, 5:44:04 PM  [focus] 1
+INFO 3/28/2021, 5:44:05 PM  [blur] 1
+INFO 3/28/2021, 5:44:09 PM  [focus] 1
+INFO 3/28/2021, 5:44:10 PM  [blur] 1
+INFO 3/28/2021, 5:44:32 PM  [focus] 1
+INFO 3/28/2021, 5:45:20 PM  [blur] 1
+INFO 3/28/2021, 5:45:25 PM  [focus] 1
+INFO 3/28/2021, 5:46:08 PM  [blur] 1
+INFO 3/28/2021, 5:46:08 PM  [focus] 1
+INFO 3/28/2021, 5:46:27 PM  [blur] 1
+INFO 3/28/2021, 5:46:48 PM  [focus] 1
+INFO 3/28/2021, 5:49:08 PM  [blur] 1
+INFO 3/28/2021, 5:49:10 PM  [focus] 1
+INFO 3/28/2021, 5:49:44 PM  [blur] 1
+INFO 3/28/2021, 5:49:45 PM  [focus] 1
+INFO 3/28/2021, 5:49:59 PM  [blur] 1
+INFO 3/28/2021, 5:50:02 PM  [focus] 1
+INFO 3/28/2021, 5:50:05 PM  [blur] 1
+INFO 3/28/2021, 5:50:11 PM  [focus] 1
+INFO 3/28/2021, 5:50:14 PM  [blur] 1
+INFO 3/28/2021, 5:50:15 PM  [focus] 1
+INFO 3/28/2021, 5:50:15 PM  [blur] 1
+INFO 3/28/2021, 5:50:16 PM  [focus] 1
+INFO 3/28/2021, 5:50:17 PM  [blur] 1
+INFO 3/28/2021, 5:50:34 PM  [focus] 1
+INFO 3/28/2021, 5:50:45 PM  [blur] 1
+INFO 3/28/2021, 5:51:16 PM  [focus] 1
+INFO 3/28/2021, 5:51:34 PM  [blur] 1
+INFO 3/28/2021, 5:51:37 PM  [focus] 1
+INFO 3/28/2021, 5:52:12 PM  [blur] 1
+INFO 3/28/2021, 5:52:13 PM  [focus] 1
+INFO 3/28/2021, 5:52:14 PM  [blur] 1
+INFO 3/28/2021, 5:52:15 PM  [focus] 1
+INFO 3/28/2021, 5:52:16 PM  [blur] 1
+INFO 3/28/2021, 5:52:27 PM  [focus] 1
+INFO 3/28/2021, 5:52:28 PM  [blur] 1
+INFO 3/28/2021, 5:52:55 PM  [focus] 1
+INFO 3/28/2021, 5:52:55 PM  [blur] 1
+INFO 3/28/2021, 5:52:59 PM  [focus] 1
+INFO 3/28/2021, 5:52:59 PM  [blur] 1
+INFO 3/28/2021, 5:53:00 PM  [focus] 1
+INFO 3/28/2021, 5:53:01 PM  [blur] 1
+INFO 3/28/2021, 5:53:06 PM  [focus] 1
+INFO 3/28/2021, 5:53:25 PM  [blur] 1
+INFO 3/28/2021, 5:53:26 PM  [focus] 1
+INFO 3/28/2021, 5:53:26 PM  [blur] 1
+INFO 3/28/2021, 5:53:30 PM  [focus] 1
+INFO 3/28/2021, 5:53:31 PM  [blur] 1
+INFO 3/28/2021, 5:54:12 PM  [focus] 1
+INFO 3/28/2021, 5:54:26 PM  [blur] 1
+INFO 3/28/2021, 5:54:34 PM  [focus] 1
+INFO 3/28/2021, 5:54:44 PM  [blur] 1
+INFO 3/28/2021, 5:54:44 PM  [focus] 1
+INFO 3/28/2021, 5:54:47 PM  [blur] 1
+INFO 3/28/2021, 5:54:50 PM  [focus] 1
+INFO 3/28/2021, 5:55:10 PM  [blur] 1
+INFO 3/28/2021, 5:55:12 PM  [focus] 1
+INFO 3/28/2021, 5:55:17 PM  [blur] 1
+INFO 3/28/2021, 5:55:20 PM  [focus] 1
+INFO 3/28/2021, 5:55:21 PM  [blur] 1
+INFO 3/28/2021, 5:55:29 PM  [focus] 1
+INFO 3/28/2021, 5:56:01 PM  [blur] 1
+INFO 3/28/2021, 5:56:07 PM  ----------------before-quit-----------------
+INFO 3/28/2021, 5:56:07 PM  [focus] 1
+INFO 3/28/2021, 5:57:26 PM  ------------------start------------------
+INFO 3/28/2021, 5:57:26 PM  typora version: 0.9.98
+DEBUG 3/28/2021, 5:57:26 PM  [ '/usr/share/typora/Typora' ]
+INFO 3/28/2021, 5:57:26 PM  [Raven] instanceKey = 2640f70a-6b3e-4f83-b3d9-a1fe9a17242a
+DEBUG 3/28/2021, 5:57:26 PM  pinFolder /home/arjun/notes
+DEBUG 3/28/2021, 5:57:26 PM  app.openFile
+INFO 3/28/2021, 5:57:26 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/28/2021, 5:57:26 PM  [focus] 1
+INFO 3/28/2021, 5:57:27 PM  [blur] 1
+INFO 3/28/2021, 5:57:28 PM  [focus] 1
+INFO 3/28/2021, 5:57:28 PM  handle document.loadInitData
+INFO 3/28/2021, 5:57:28 PM  addRecentFolder
+INFO 3/28/2021, 5:57:29 PM  [blur] 1
+INFO 3/28/2021, 5:57:33 PM  [focus] 1
+INFO 3/28/2021, 5:57:34 PM  [blur] 1
+INFO 3/28/2021, 5:57:35 PM  [focus] 1
+INFO 3/28/2021, 5:57:36 PM  switchDocument 1 [/home/arjun/notes/How the Fuck am I gonna survive.md]
+INFO 3/28/2021, 5:57:36 PM  addRecentDocument
+INFO 3/28/2021, 5:57:37 PM  switchDocument 1 [/home/arjun/notes/how-to-python.md]
+INFO 3/28/2021, 5:57:37 PM  addRecentDocument
+INFO 3/28/2021, 5:57:38 PM  switchDocument 1 [/home/arjun/notes/How the Fuck am I gonna survive.md]
+INFO 3/28/2021, 5:57:38 PM  addRecentDocument
+DEBUG 3/28/2021, 5:57:38 PM  lastSync null, timestamp 1616968657025, mtime 1616800409593.646
+INFO 3/28/2021, 5:57:42 PM  ondragstart /home/arjun/notes/how-to-python.md 
+INFO 3/28/2021, 5:57:44 PM  switchDocument 1 [/home/arjun/notes/how-to-python.md]
+INFO 3/28/2021, 5:57:44 PM  addRecentDocument
+DEBUG 3/28/2021, 5:57:44 PM  lastSync null, timestamp 1616968657745, mtime 1616968560393.107
+INFO 3/28/2021, 5:57:48 PM  [blur] 1
+INFO 3/28/2021, 5:57:51 PM  [focus] 1
+INFO 3/28/2021, 5:57:52 PM  [blur] 1
+INFO 3/28/2021, 5:57:55 PM  [focus] 1
+INFO 3/28/2021, 5:57:56 PM  [blur] 1
+INFO 3/28/2021, 6:00:30 PM  [focus] 1
+INFO 3/28/2021, 6:00:31 PM  [blur] 1
+INFO 3/28/2021, 6:02:04 PM  [focus] 1
+INFO 3/28/2021, 6:02:06 PM  switchDocument 1 [/home/arjun/notes/How the Fuck am I gonna survive.md]
+INFO 3/28/2021, 6:02:06 PM  addRecentDocument
+DEBUG 3/28/2021, 6:02:06 PM  lastSync null, timestamp 1616968664188, mtime 1616800409593.646
+INFO 3/28/2021, 6:02:09 PM  addRecentDocument
+INFO 3/28/2021, 6:02:12 PM  switchDocument 1 [/home/arjun/notes/how-to-python.md]
+INFO 3/28/2021, 6:02:12 PM  addRecentDocument
+DEBUG 3/28/2021, 6:02:12 PM  lastSync null, timestamp 1616968926315, mtime 1616968560393.107
+INFO 3/28/2021, 6:02:16 PM  [blur] 1
+INFO 3/28/2021, 6:04:20 PM  [focus] 1
+INFO 3/28/2021, 6:04:25 PM  [blur] 1
+INFO 3/28/2021, 6:04:27 PM  [focus] 1
+INFO 3/28/2021, 6:04:27 PM  [blur] 1
+INFO 3/28/2021, 6:04:42 PM  [focus] 1
+INFO 3/28/2021, 6:04:48 PM  [blur] 1
+INFO 3/28/2021, 6:07:56 PM  [focus] 1
+INFO 3/28/2021, 6:07:57 PM  [blur] 1
+INFO 3/28/2021, 6:09:28 PM  [focus] 1
+INFO 3/28/2021, 6:09:29 PM  [blur] 1
+INFO 3/28/2021, 6:10:42 PM  [focus] 1
+INFO 3/28/2021, 6:10:44 PM  [blur] 1
+INFO 3/28/2021, 6:12:23 PM  [focus] 1
+INFO 3/28/2021, 6:12:25 PM  [blur] 1
+INFO 3/28/2021, 6:15:14 PM  [focus] 1
+INFO 3/28/2021, 6:15:15 PM  [blur] 1
+INFO 3/28/2021, 6:16:05 PM  [focus] 1
+INFO 3/28/2021, 6:16:07 PM  [blur] 1
+INFO 3/28/2021, 6:17:18 PM  [focus] 1
+INFO 3/28/2021, 6:17:19 PM  [blur] 1
+INFO 3/28/2021, 6:18:40 PM  [focus] 1
+INFO 3/28/2021, 6:18:42 PM  [blur] 1
+INFO 3/28/2021, 6:19:32 PM  [focus] 1
+INFO 3/28/2021, 6:19:38 PM  [blur] 1
+INFO 3/28/2021, 6:20:12 PM  [focus] 1
+INFO 3/28/2021, 6:20:19 PM  [blur] 1
+INFO 3/28/2021, 6:20:53 PM  [focus] 1
+INFO 3/28/2021, 6:22:31 PM  [blur] 1
+INFO 3/28/2021, 6:22:38 PM  [focus] 1
+INFO 3/28/2021, 6:22:43 PM  [blur] 1
+INFO 3/28/2021, 6:22:48 PM  [focus] 1
+INFO 3/28/2021, 6:22:50 PM  [blur] 1
+INFO 3/28/2021, 6:23:48 PM  [focus] 1
+INFO 3/28/2021, 6:23:50 PM  [blur] 1
+INFO 3/28/2021, 6:23:53 PM  [focus] 1
+INFO 3/28/2021, 6:24:20 PM  [blur] 1
+INFO 3/28/2021, 6:24:24 PM  [focus] 1
+INFO 3/28/2021, 6:24:25 PM  [blur] 1
+INFO 3/28/2021, 6:24:26 PM  [focus] 1
+INFO 3/28/2021, 6:24:33 PM  [blur] 1
+INFO 3/28/2021, 6:24:36 PM  [focus] 1
+INFO 3/28/2021, 6:24:39 PM  [blur] 1
+INFO 3/28/2021, 6:24:42 PM  [focus] 1
+INFO 3/28/2021, 6:24:45 PM  [blur] 1
+INFO 3/28/2021, 6:24:47 PM  [focus] 1
+INFO 3/28/2021, 6:24:47 PM  [blur] 1
+INFO 3/28/2021, 6:24:47 PM  [focus] 1
+INFO 3/28/2021, 6:24:47 PM  [blur] 1
+INFO 3/28/2021, 6:24:47 PM  [focus] 1
+INFO 3/28/2021, 6:24:47 PM  [blur] 1
+INFO 3/28/2021, 6:24:56 PM  [focus] 1
+INFO 3/28/2021, 6:25:03 PM  [blur] 1
+INFO 3/28/2021, 6:25:27 PM  [focus] 1
+INFO 3/28/2021, 6:26:07 PM  [blur] 1
+INFO 3/28/2021, 6:26:42 PM  [focus] 1
+INFO 3/28/2021, 6:26:53 PM  [blur] 1
+INFO 3/28/2021, 6:26:55 PM  [focus] 1
+INFO 3/28/2021, 6:26:56 PM  [blur] 1
+INFO 3/28/2021, 6:28:35 PM  [focus] 1
+INFO 3/28/2021, 6:28:37 PM  [blur] 1
+INFO 3/28/2021, 6:29:51 PM  [focus] 1
+INFO 3/28/2021, 6:29:54 PM  [blur] 1
+INFO 3/28/2021, 6:30:05 PM  [focus] 1
+INFO 3/28/2021, 6:30:07 PM  [blur] 1
+INFO 3/28/2021, 6:30:52 PM  [focus] 1
+INFO 3/28/2021, 6:30:54 PM  [blur] 1
+INFO 3/28/2021, 6:30:55 PM  [focus] 1
+INFO 3/28/2021, 6:30:56 PM  [blur] 1
+INFO 3/28/2021, 6:31:17 PM  [focus] 1
+INFO 3/28/2021, 6:31:25 PM  [blur] 1
+INFO 3/28/2021, 6:31:26 PM  [focus] 1
+INFO 3/28/2021, 6:31:29 PM  [blur] 1
+INFO 3/28/2021, 6:31:32 PM  [focus] 1
+INFO 3/28/2021, 6:31:35 PM  [blur] 1
+INFO 3/28/2021, 6:32:06 PM  [focus] 1
+INFO 3/28/2021, 6:32:07 PM  [blur] 1
+INFO 3/28/2021, 6:32:43 PM  [focus] 1
+INFO 3/28/2021, 6:32:46 PM  [blur] 1
+INFO 3/28/2021, 6:33:48 PM  [focus] 1
+INFO 3/28/2021, 6:33:51 PM  [blur] 1
+INFO 3/28/2021, 6:34:32 PM  [focus] 1
+INFO 3/28/2021, 6:34:34 PM  [blur] 1
+INFO 3/28/2021, 6:34:40 PM  [focus] 1
+INFO 3/28/2021, 6:34:42 PM  [blur] 1
+INFO 3/28/2021, 6:38:01 PM  [focus] 1
+INFO 3/28/2021, 6:38:03 PM  [blur] 1
+INFO 3/28/2021, 6:38:10 PM  [focus] 1
+INFO 3/28/2021, 6:38:11 PM  [blur] 1
+INFO 3/28/2021, 6:42:16 PM  [focus] 1
+INFO 3/28/2021, 6:42:20 PM  [blur] 1
+INFO 3/28/2021, 6:42:43 PM  [focus] 1
+INFO 3/28/2021, 6:42:45 PM  [blur] 1
+INFO 3/28/2021, 6:43:16 PM  [focus] 1
+INFO 3/28/2021, 6:43:18 PM  [blur] 1
+INFO 3/28/2021, 6:43:53 PM  [focus] 1
+INFO 3/28/2021, 6:43:54 PM  [blur] 1
+INFO 3/28/2021, 6:44:33 PM  [focus] 1
+INFO 3/28/2021, 6:44:35 PM  [blur] 1
+INFO 3/28/2021, 6:44:56 PM  [focus] 1
+INFO 3/28/2021, 6:44:57 PM  [blur] 1
+INFO 3/28/2021, 6:46:19 PM  [focus] 1
+INFO 3/28/2021, 6:46:21 PM  [blur] 1
+INFO 3/28/2021, 6:48:46 PM  [focus] 1
+INFO 3/28/2021, 6:48:50 PM  [blur] 1
+INFO 3/28/2021, 6:51:18 PM  [focus] 1
+INFO 3/28/2021, 6:51:19 PM  [blur] 1
+INFO 3/28/2021, 6:51:20 PM  [focus] 1
+INFO 3/28/2021, 6:51:21 PM  [blur] 1
+INFO 3/28/2021, 6:51:23 PM  [focus] 1
+INFO 3/28/2021, 6:51:24 PM  [blur] 1
+INFO 3/28/2021, 6:51:27 PM  [focus] 1
+INFO 3/28/2021, 6:51:30 PM  [blur] 1
+INFO 3/28/2021, 6:53:34 PM  [focus] 1
+INFO 3/28/2021, 6:53:37 PM  [blur] 1
+INFO 3/28/2021, 6:54:16 PM  [focus] 1
+INFO 3/28/2021, 6:54:16 PM  [blur] 1
+INFO 3/28/2021, 6:54:27 PM  [focus] 1
+INFO 3/28/2021, 6:54:28 PM  [blur] 1
+INFO 3/28/2021, 6:54:37 PM  [focus] 1
+INFO 3/28/2021, 6:54:43 PM  [blur] 1
+INFO 3/28/2021, 7:01:52 PM  [focus] 1
+INFO 3/28/2021, 7:01:52 PM  [blur] 1
+INFO 3/28/2021, 7:02:03 PM  [focus] 1
+INFO 3/28/2021, 7:02:06 PM  [blur] 1
+INFO 3/28/2021, 7:03:54 PM  [focus] 1
+INFO 3/28/2021, 7:03:58 PM  [blur] 1
+INFO 3/28/2021, 7:05:32 PM  [focus] 1
+INFO 3/28/2021, 7:05:33 PM  [blur] 1
+INFO 3/28/2021, 7:08:38 PM  [focus] 1
+INFO 3/28/2021, 7:08:40 PM  [blur] 1
+INFO 3/28/2021, 7:11:40 PM  [focus] 1
+INFO 3/28/2021, 7:11:43 PM  [blur] 1
+INFO 3/28/2021, 7:13:02 PM  [focus] 1
+INFO 3/28/2021, 7:13:03 PM  [blur] 1
+INFO 3/28/2021, 7:13:20 PM  [focus] 1
+INFO 3/28/2021, 7:13:24 PM  [blur] 1
+INFO 3/28/2021, 7:13:57 PM  [focus] 1
+INFO 3/28/2021, 7:14:03 PM  [blur] 1
+INFO 3/28/2021, 7:19:09 PM  [focus] 1
+INFO 3/28/2021, 7:19:12 PM  [blur] 1
+INFO 3/28/2021, 7:19:53 PM  [focus] 1
+INFO 3/28/2021, 7:20:01 PM  [blur] 1
+INFO 3/28/2021, 7:21:11 PM  [focus] 1
+INFO 3/28/2021, 7:21:12 PM  [blur] 1
+INFO 3/28/2021, 7:24:50 PM  [focus] 1
+INFO 3/28/2021, 7:24:50 PM  [blur] 1
+INFO 3/28/2021, 7:24:58 PM  [focus] 1
+INFO 3/28/2021, 7:25:24 PM  [blur] 1
+INFO 3/28/2021, 7:25:25 PM  [focus] 1
+INFO 3/28/2021, 7:25:34 PM  [blur] 1
+INFO 3/28/2021, 7:25:36 PM  [focus] 1
+INFO 3/28/2021, 7:25:36 PM  [blur] 1
+INFO 3/28/2021, 7:25:36 PM  [focus] 1
+INFO 3/28/2021, 7:25:36 PM  [blur] 1
+INFO 3/28/2021, 7:25:36 PM  [focus] 1
+INFO 3/28/2021, 7:25:42 PM  [blur] 1
+INFO 3/28/2021, 7:25:46 PM  [focus] 1
+INFO 3/28/2021, 7:25:46 PM  [blur] 1
+INFO 3/28/2021, 7:25:46 PM  [focus] 1
+INFO 3/28/2021, 7:25:46 PM  [blur] 1
+INFO 3/28/2021, 7:25:46 PM  [focus] 1
+INFO 3/28/2021, 7:25:46 PM  load file [/tmp/1616973946350-0.3807763650792688.html] for PDF export
+INFO 3/28/2021, 7:25:46 PM  [blur] 1
+INFO 3/28/2021, 7:25:46 PM  generate print window with id 2
+INFO 3/28/2021, 7:25:48 PM  [focus] 1
+INFO 3/28/2021, 7:25:48 PM  [blur] 1
+INFO 3/28/2021, 7:25:48 PM  [focus] 1
+INFO 3/28/2021, 7:25:49 PM  [blur] 1
+INFO 3/28/2021, 7:25:49 PM  [focus] 1
+INFO 3/28/2021, 7:25:49 PM  [blur] 1
+INFO 3/28/2021, 7:25:49 PM  [focus] 1
+INFO 3/28/2021, 7:25:49 PM  [blur] 1
+INFO 3/28/2021, 7:25:49 PM  [focus] 1
+INFO 3/28/2021, 7:25:49 PM  [RenderProcess 1][Log] export PDF to /home/arjun/notes/how-to-python.pdf
+INFO 3/28/2021, 7:25:50 PM  [blur] 1
+INFO 3/28/2021, 7:26:11 PM  [focus] 1
+INFO 3/28/2021, 7:26:11 PM  [blur] 1
+INFO 3/28/2021, 7:39:50 PM  The system is going to sleep
+INFO 3/28/2021, 7:52:38 PM  [focus] 1
+INFO 3/28/2021, 7:52:39 PM  [blur] 1
+INFO 3/28/2021, 7:52:50 PM  The system is going to sleep
+INFO 3/29/2021, 5:46:33 AM  [focus] 1
+INFO 3/29/2021, 5:46:34 AM  ----------------before-quit-----------------
+INFO 3/29/2021, 5:46:34 AM  ------------------will-quit------------------
+INFO 3/29/2021, 7:12:07 AM  ------------------start------------------
+INFO 3/29/2021, 7:12:07 AM  typora version: 0.9.98
+DEBUG 3/29/2021, 7:12:07 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/29/2021, 7:12:07 AM  [Raven] instanceKey = 7b7b6332-d4b0-40e5-994e-4dccea046d71
+DEBUG 3/29/2021, 7:12:07 AM  pinFolder /home/arjun/notes
+DEBUG 3/29/2021, 7:12:07 AM  app.openFile
+INFO 3/29/2021, 7:12:07 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/29/2021, 7:12:07 AM  [focus] 1
+INFO 3/29/2021, 7:12:08 AM  handle document.loadInitData
+INFO 3/29/2021, 7:12:08 AM  addRecentFolder
+INFO 3/29/2021, 7:12:20 AM  switchDocument 1 [/home/arjun/notes/how-to-python.md]
+INFO 3/29/2021, 7:12:20 AM  addRecentDocument
+INFO 3/29/2021, 7:14:18 AM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 3/29/2021, 7:14:18 AM  addRecentDocument
+INFO 3/29/2021, 7:14:27 AM  [blur] 1
+INFO 3/29/2021, 7:14:31 AM  [focus] 1
+INFO 3/29/2021, 7:14:32 AM  switchDocument 1 [/home/arjun/notes/how-to-python.md]
+INFO 3/29/2021, 7:14:32 AM  addRecentDocument
+DEBUG 3/29/2021, 7:14:32 AM  lastSync 1617016423405.1494, timestamp 1617016420568, mtime 1617016423405.1494
+INFO 3/29/2021, 7:14:45 AM  [blur] 1
+INFO 3/29/2021, 7:14:48 AM  [focus] 1
+INFO 3/29/2021, 7:14:48 AM  [blur] 1
+INFO 3/29/2021, 7:14:48 AM  [focus] 1
+INFO 3/29/2021, 7:14:48 AM  [blur] 1
+INFO 3/29/2021, 7:14:48 AM  [focus] 1
+INFO 3/29/2021, 7:14:49 AM  [blur] 1
+INFO 3/29/2021, 7:14:54 AM  [focus] 1
+INFO 3/29/2021, 7:14:54 AM  [blur] 1
+INFO 3/29/2021, 7:15:40 AM  [focus] 1
+INFO 3/29/2021, 7:16:05 AM  [blur] 1
+INFO 3/29/2021, 7:16:33 AM  [focus] 1
+INFO 3/29/2021, 7:16:34 AM  [blur] 1
+INFO 3/29/2021, 7:17:11 AM  [focus] 1
+INFO 3/29/2021, 7:17:12 AM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 3/29/2021, 7:17:12 AM  addRecentDocument
+DEBUG 3/29/2021, 7:17:12 AM  lastSync null, timestamp 1617016472651, mtime 1616968932073.72
+INFO 3/29/2021, 7:17:14 AM  switchDocument 1 [/home/arjun/notes/how-to-python.md]
+INFO 3/29/2021, 7:17:14 AM  addRecentDocument
+DEBUG 3/29/2021, 7:17:14 AM  lastSync 1617016541892.911, timestamp 1617016632967, mtime 1617016541892.911
+INFO 3/29/2021, 7:17:17 AM  [blur] 1
+INFO 3/29/2021, 7:17:51 AM  [focus] 1
+INFO 3/29/2021, 7:17:52 AM  [blur] 1
+INFO 3/29/2021, 7:19:09 AM  [focus] 1
+INFO 3/29/2021, 7:19:09 AM  [blur] 1
+INFO 3/29/2021, 7:19:23 AM  [focus] 1
+INFO 3/29/2021, 7:19:23 AM  [blur] 1
+INFO 3/29/2021, 7:19:29 AM  [focus] 1
+INFO 3/29/2021, 7:19:30 AM  [blur] 1
+INFO 3/29/2021, 7:28:24 AM  [focus] 1
+INFO 3/29/2021, 7:28:28 AM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 3/29/2021, 7:28:28 AM  addRecentDocument
+DEBUG 3/29/2021, 7:28:28 AM  lastSync null, timestamp 1617016634882, mtime 1616968932073.72
+INFO 3/29/2021, 7:28:51 AM  [blur] 1
+INFO 3/29/2021, 7:28:52 AM  [focus] 1
+INFO 3/29/2021, 7:29:05 AM  [blur] 1
+INFO 3/29/2021, 7:29:05 AM  [focus] 1
+INFO 3/29/2021, 7:33:05 AM  [blur] 1
+INFO 3/29/2021, 7:34:32 AM  [focus] 1
+INFO 3/29/2021, 7:34:32 AM  [blur] 1
+INFO 3/29/2021, 7:35:54 AM  [focus] 1
+INFO 3/29/2021, 7:35:54 AM  [blur] 1
+INFO 3/29/2021, 7:35:54 AM  [focus] 1
+INFO 3/29/2021, 7:35:54 AM  [blur] 1
+INFO 3/29/2021, 7:35:54 AM  [focus] 1
+INFO 3/29/2021, 7:35:56 AM  [blur] 1
+INFO 3/29/2021, 7:35:58 AM  [focus] 1
+INFO 3/29/2021, 7:35:59 AM  [blur] 1
+INFO 3/29/2021, 7:36:12 AM  [focus] 1
+INFO 3/29/2021, 7:36:13 AM  [blur] 1
+INFO 3/29/2021, 7:56:14 AM  [focus] 1
+INFO 3/29/2021, 7:56:15 AM  [blur] 1
+INFO 3/29/2021, 7:57:10 AM  [focus] 1
+INFO 3/29/2021, 7:57:11 AM  [blur] 1
+INFO 3/29/2021, 7:58:23 AM  [focus] 1
+INFO 3/29/2021, 7:58:23 AM  [blur] 1
+INFO 3/29/2021, 8:08:14 AM  [focus] 1
+INFO 3/29/2021, 8:08:15 AM  [blur] 1
+INFO 3/29/2021, 9:26:01 AM  The system is going to sleep
+INFO 3/29/2021, 10:47:31 AM  [focus] 1
+INFO 3/29/2021, 10:47:32 AM  ----------------before-quit-----------------
+INFO 3/29/2021, 10:47:32 AM  ------------------will-quit------------------
+INFO 3/29/2021, 1:35:33 PM  ------------------start------------------
+INFO 3/29/2021, 1:35:33 PM  typora version: 0.9.98
+DEBUG 3/29/2021, 1:35:33 PM  [ '/usr/share/typora/Typora' ]
+INFO 3/29/2021, 1:35:33 PM  [Raven] instanceKey = 00858bba-9d9f-4186-b66e-299b70794129
+DEBUG 3/29/2021, 1:35:33 PM  pinFolder /home/arjun/notes
+DEBUG 3/29/2021, 1:35:33 PM  app.openFile
+INFO 3/29/2021, 1:35:33 PM  [focus] 1
+INFO 3/29/2021, 1:35:33 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/29/2021, 1:35:34 PM  handle document.loadInitData
+INFO 3/29/2021, 1:35:34 PM  addRecentFolder
+INFO 3/29/2021, 1:35:35 PM  [blur] 1
+INFO 3/29/2021, 1:35:35 PM  [focus] 1
+INFO 3/29/2021, 1:35:37 PM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 3/29/2021, 1:35:37 PM  addRecentDocument
+INFO 3/29/2021, 1:35:43 PM  [blur] 1
+INFO 3/29/2021, 1:35:55 PM  [focus] 1
+INFO 3/29/2021, 1:35:58 PM  [blur] 1
+INFO 3/29/2021, 1:40:48 PM  [focus] 1
+INFO 3/29/2021, 1:40:50 PM  [blur] 1
+INFO 3/29/2021, 1:42:41 PM  [focus] 1
+INFO 3/29/2021, 1:42:41 PM  [blur] 1
+INFO 3/29/2021, 1:42:49 PM  [focus] 1
+INFO 3/29/2021, 1:42:49 PM  [blur] 1
+INFO 3/29/2021, 1:44:27 PM  [focus] 1
+INFO 3/29/2021, 1:46:19 PM  [blur] 1
+INFO 3/29/2021, 1:46:25 PM  [focus] 1
+INFO 3/29/2021, 1:46:26 PM  [blur] 1
+INFO 3/29/2021, 1:46:28 PM  [focus] 1
+INFO 3/29/2021, 1:46:31 PM  ----------------before-quit-----------------
+INFO 3/29/2021, 1:46:31 PM  ------------------will-quit------------------
+INFO 3/30/2021, 8:56:54 AM  ------------------start------------------
+INFO 3/30/2021, 8:56:54 AM  typora version: 0.9.98
+DEBUG 3/30/2021, 8:56:54 AM  [ '/usr/share/typora/Typora' ]
+INFO 3/30/2021, 8:56:54 AM  [Raven] instanceKey = 41145c4e-56c6-46e6-80d3-7ffa4d013e17
+DEBUG 3/30/2021, 8:56:54 AM  pinFolder /home/arjun/notes
+DEBUG 3/30/2021, 8:56:54 AM  app.openFile
+INFO 3/30/2021, 8:56:54 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 3/30/2021, 8:56:54 AM  [focus] 1
+INFO 3/30/2021, 8:56:54 AM  handle document.loadInitData
+INFO 3/30/2021, 8:56:54 AM  addRecentFolder
+INFO 3/30/2021, 8:56:57 AM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 3/30/2021, 8:56:57 AM  addRecentDocument
+INFO 3/30/2021, 8:57:50 AM  [blur] 1
+INFO 3/30/2021, 8:57:50 AM  [focus] 1
+INFO 3/30/2021, 8:57:51 AM  [blur] 1
+INFO 3/30/2021, 8:59:24 AM  [focus] 1
+INFO 3/30/2021, 9:01:05 AM  [blur] 1
+INFO 3/30/2021, 9:01:06 AM  [focus] 1
+INFO 3/30/2021, 9:02:37 AM  [blur] 1
+INFO 3/30/2021, 9:02:55 AM  [focus] 1
+INFO 3/30/2021, 9:02:55 AM  [blur] 1
+INFO 3/30/2021, 9:02:56 AM  [focus] 1
+INFO 3/30/2021, 9:02:56 AM  [blur] 1
+INFO 3/30/2021, 9:10:38 AM  [focus] 1
+INFO 3/30/2021, 9:10:46 AM  [blur] 1
+INFO 3/30/2021, 9:34:37 AM  [focus] 1
+INFO 3/30/2021, 9:34:38 AM  [blur] 1
+INFO 3/30/2021, 9:34:41 AM  [focus] 1
+INFO 3/30/2021, 9:34:41 AM  [blur] 1
+INFO 3/30/2021, 9:34:45 AM  [focus] 1
+INFO 3/30/2021, 9:34:46 AM  [blur] 1
+INFO 3/30/2021, 9:34:46 AM  [focus] 1
+INFO 3/30/2021, 9:34:48 AM  [blur] 1
+INFO 3/30/2021, 9:49:15 AM  [focus] 1
+INFO 3/30/2021, 9:49:16 AM  [blur] 1
+INFO 3/30/2021, 9:49:17 AM  [focus] 1
+INFO 3/30/2021, 9:49:59 AM  [blur] 1
+INFO 3/30/2021, 9:51:36 AM  [focus] 1
+INFO 3/30/2021, 9:51:38 AM  [blur] 1
+INFO 3/30/2021, 9:59:03 AM  [focus] 1
+INFO 3/30/2021, 9:59:04 AM  [blur] 1
+INFO 3/30/2021, 10:01:23 AM  [focus] 1
+INFO 3/30/2021, 10:01:23 AM  [blur] 1
+INFO 3/30/2021, 10:01:24 AM  [focus] 1
+INFO 3/30/2021, 10:02:16 AM  [blur] 1
+INFO 3/30/2021, 10:41:26 AM  [focus] 1
+INFO 3/30/2021, 10:41:26 AM  [blur] 1
+INFO 3/30/2021, 10:42:58 AM  [focus] 1
+INFO 3/30/2021, 10:43:13 AM  [blur] 1
+INFO 3/30/2021, 10:58:14 AM  [focus] 1
+INFO 3/30/2021, 10:58:24 AM  [blur] 1
+INFO 3/30/2021, 11:36:13 AM  [focus] 1
+INFO 3/30/2021, 11:36:13 AM  [blur] 1
+INFO 3/30/2021, 11:36:17 AM  [focus] 1
+INFO 3/30/2021, 11:36:18 AM  [blur] 1
+INFO 3/30/2021, 11:36:42 AM  [focus] 1
+INFO 3/30/2021, 11:36:43 AM  [blur] 1
+INFO 3/30/2021, 11:39:06 AM  [focus] 1
+INFO 3/30/2021, 11:39:07 AM  [blur] 1
+INFO 3/30/2021, 11:41:57 AM  [focus] 1
+INFO 3/30/2021, 11:41:58 AM  [blur] 1
+INFO 3/30/2021, 11:44:25 AM  [focus] 1
+INFO 3/30/2021, 11:44:26 AM  [blur] 1
+INFO 3/30/2021, 11:45:52 AM  [focus] 1
+INFO 3/30/2021, 11:46:42 AM  [blur] 1
+INFO 3/30/2021, 11:52:07 AM  [focus] 1
+INFO 3/30/2021, 11:52:08 AM  [blur] 1
+INFO 3/30/2021, 11:54:10 AM  [focus] 1
+INFO 3/30/2021, 11:54:11 AM  [blur] 1
+INFO 3/30/2021, 11:55:55 AM  [focus] 1
+INFO 3/30/2021, 11:55:56 AM  [blur] 1
+INFO 3/30/2021, 11:56:03 AM  [focus] 1
+INFO 3/30/2021, 11:56:05 AM  [blur] 1
+INFO 3/30/2021, 11:57:04 AM  [focus] 1
+INFO 3/30/2021, 11:57:05 AM  [blur] 1
+INFO 3/30/2021, 12:01:45 PM  [focus] 1
+INFO 3/30/2021, 12:01:45 PM  [blur] 1
+INFO 3/30/2021, 12:01:46 PM  [focus] 1
+INFO 3/30/2021, 12:01:46 PM  [blur] 1
+INFO 3/30/2021, 12:07:59 PM  [focus] 1
+INFO 3/30/2021, 12:08:00 PM  [blur] 1
+INFO 3/30/2021, 12:18:00 PM  [focus] 1
+INFO 3/30/2021, 12:18:01 PM  [blur] 1
+INFO 3/30/2021, 12:50:06 PM  [focus] 1
+INFO 3/30/2021, 12:50:07 PM  [blur] 1
+INFO 3/30/2021, 12:57:57 PM  The system is going to sleep
+INFO 3/30/2021, 1:16:46 PM  [focus] 1
+INFO 3/30/2021, 1:16:46 PM  [blur] 1
+INFO 3/30/2021, 1:29:10 PM  [focus] 1
+INFO 3/30/2021, 1:29:11 PM  [blur] 1
+INFO 3/30/2021, 2:42:59 PM  [focus] 1
+INFO 3/30/2021, 2:43:00 PM  [blur] 1
+INFO 3/30/2021, 2:47:39 PM  ----------------before-quit-----------------
+INFO 4/1/2021, 10:22:18 AM  ------------------start------------------
+INFO 4/1/2021, 10:22:18 AM  typora version: 0.9.98
+DEBUG 4/1/2021, 10:22:18 AM  [ '/usr/share/typora/Typora' ]
+INFO 4/1/2021, 10:22:18 AM  [Raven] instanceKey = 7bdea68a-c9a3-42a5-a4dc-45f938527dfe
+DEBUG 4/1/2021, 10:22:18 AM  pinFolder /home/arjun/notes
+DEBUG 4/1/2021, 10:22:18 AM  app.openFile
+INFO 4/1/2021, 10:22:18 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 4/1/2021, 10:22:18 AM  [focus] 1
+INFO 4/1/2021, 10:22:18 AM  handle document.loadInitData
+INFO 4/1/2021, 10:22:19 AM  addRecentFolder
+INFO 4/1/2021, 10:22:19 AM  [blur] 1
+INFO 4/1/2021, 10:22:20 AM  [focus] 1
+INFO 4/1/2021, 10:22:23 AM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 4/1/2021, 10:22:23 AM  addRecentDocument
+INFO 4/1/2021, 10:22:31 AM  [blur] 1
+INFO 4/1/2021, 11:00:35 AM  [focus] 1
+INFO 4/1/2021, 11:00:36 AM  [blur] 1
+INFO 4/1/2021, 11:03:23 AM  [focus] 1
+INFO 4/1/2021, 11:03:23 AM  [blur] 1
+INFO 4/1/2021, 11:03:46 AM  [focus] 1
+INFO 4/1/2021, 11:03:46 AM  [blur] 1
+INFO 4/1/2021, 11:03:46 AM  [focus] 1
+INFO 4/1/2021, 11:03:47 AM  [blur] 1
+INFO 4/1/2021, 11:04:04 AM  [focus] 1
+INFO 4/1/2021, 11:04:04 AM  [blur] 1
+INFO 4/1/2021, 11:04:39 AM  [focus] 1
+INFO 4/1/2021, 11:04:39 AM  [blur] 1
+INFO 4/1/2021, 11:07:32 AM  [focus] 1
+INFO 4/1/2021, 11:07:32 AM  [blur] 1
+INFO 4/1/2021, 11:12:10 AM  [focus] 1
+INFO 4/1/2021, 11:12:11 AM  [blur] 1
+INFO 4/1/2021, 11:12:59 AM  [focus] 1
+INFO 4/1/2021, 11:12:59 AM  [blur] 1
+INFO 4/1/2021, 11:12:59 AM  [focus] 1
+INFO 4/1/2021, 11:13:00 AM  [blur] 1
+INFO 4/1/2021, 11:15:43 AM  [focus] 1
+INFO 4/1/2021, 11:15:44 AM  [blur] 1
+INFO 4/1/2021, 11:20:28 AM  [focus] 1
+INFO 4/1/2021, 11:20:29 AM  [blur] 1
+INFO 4/1/2021, 11:24:16 AM  [focus] 1
+INFO 4/1/2021, 11:24:16 AM  [blur] 1
+INFO 4/1/2021, 11:26:52 AM  [focus] 1
+INFO 4/1/2021, 11:26:53 AM  [blur] 1
+INFO 4/1/2021, 11:27:01 AM  [focus] 1
+INFO 4/1/2021, 11:27:01 AM  [blur] 1
+INFO 4/1/2021, 11:27:21 AM  [focus] 1
+INFO 4/1/2021, 11:27:22 AM  [blur] 1
+INFO 4/1/2021, 11:27:34 AM  [focus] 1
+INFO 4/1/2021, 11:27:34 AM  [blur] 1
+INFO 4/1/2021, 11:27:58 AM  [focus] 1
+INFO 4/1/2021, 11:27:59 AM  [blur] 1
+INFO 4/1/2021, 11:28:41 AM  [focus] 1
+INFO 4/1/2021, 11:28:41 AM  [blur] 1
+INFO 4/1/2021, 11:29:34 AM  [focus] 1
+INFO 4/1/2021, 11:29:34 AM  [blur] 1
+INFO 4/1/2021, 11:30:51 AM  [focus] 1
+INFO 4/1/2021, 11:30:52 AM  [blur] 1
+INFO 4/1/2021, 11:31:22 AM  [focus] 1
+INFO 4/1/2021, 11:31:22 AM  [blur] 1
+INFO 4/1/2021, 11:31:49 AM  [focus] 1
+INFO 4/1/2021, 11:31:49 AM  [blur] 1
+INFO 4/1/2021, 11:31:53 AM  [focus] 1
+INFO 4/1/2021, 11:31:53 AM  [blur] 1
+INFO 4/1/2021, 11:47:51 AM  [focus] 1
+INFO 4/1/2021, 11:47:51 AM  [blur] 1
+INFO 4/1/2021, 11:55:02 AM  [focus] 1
+INFO 4/1/2021, 11:55:02 AM  [blur] 1
+INFO 4/1/2021, 11:59:31 AM  [focus] 1
+INFO 4/1/2021, 11:59:32 AM  [blur] 1
+INFO 4/1/2021, 11:59:33 AM  [focus] 1
+INFO 4/1/2021, 11:59:36 AM  [blur] 1
+INFO 4/1/2021, 12:36:01 PM  [focus] 1
+INFO 4/1/2021, 12:36:22 PM  [blur] 1
+INFO 4/1/2021, 12:36:25 PM  [focus] 1
+INFO 4/1/2021, 12:36:57 PM  [blur] 1
+INFO 4/1/2021, 12:37:02 PM  [focus] 1
+INFO 4/1/2021, 12:37:03 PM  [blur] 1
+INFO 4/1/2021, 12:49:20 PM  [focus] 1
+INFO 4/1/2021, 12:49:20 PM  [blur] 1
+INFO 4/1/2021, 12:49:21 PM  [focus] 1
+INFO 4/1/2021, 12:49:22 PM  [blur] 1
+INFO 4/1/2021, 12:54:34 PM  [focus] 1
+INFO 4/1/2021, 12:54:36 PM  [blur] 1
+INFO 4/1/2021, 12:54:46 PM  [focus] 1
+INFO 4/1/2021, 12:54:47 PM  [blur] 1
+INFO 4/1/2021, 1:02:03 PM  [focus] 1
+INFO 4/1/2021, 1:02:08 PM  [blur] 1
+INFO 4/1/2021, 1:36:18 PM  [focus] 1
+INFO 4/1/2021, 1:36:19 PM  [blur] 1
+INFO 4/1/2021, 4:01:32 PM  [focus] 1
+INFO 4/1/2021, 4:01:33 PM  [blur] 1
+INFO 4/1/2021, 4:01:56 PM  [focus] 1
+INFO 4/1/2021, 4:01:58 PM  [blur] 1
+INFO 4/1/2021, 4:11:59 PM  [focus] 1
+INFO 4/1/2021, 4:11:59 PM  [blur] 1
+INFO 4/1/2021, 4:11:59 PM  [focus] 1
+INFO 4/1/2021, 4:12:00 PM  [blur] 1
+INFO 4/1/2021, 4:21:01 PM  [focus] 1
+INFO 4/1/2021, 4:21:01 PM  [blur] 1
+INFO 4/1/2021, 4:46:17 PM  [focus] 1
+INFO 4/1/2021, 4:46:53 PM  [blur] 1
+INFO 4/1/2021, 4:49:50 PM  The system is going to sleep
+INFO 4/1/2021, 11:57:10 PM  [focus] 1
+INFO 4/1/2021, 11:57:11 PM  [blur] 1
+INFO 4/1/2021, 11:59:20 PM  [focus] 1
+INFO 4/1/2021, 11:59:21 PM  [blur] 1
+INFO 4/2/2021, 12:09:10 AM  The system is going to sleep
+INFO 4/2/2021, 1:08:01 PM  [focus] 1
+INFO 4/2/2021, 1:08:02 PM  [blur] 1
+INFO 4/2/2021, 1:08:04 PM  [focus] 1
+INFO 4/2/2021, 1:08:05 PM  [blur] 1
+INFO 4/2/2021, 2:25:38 PM  The system is going to sleep
+INFO 4/2/2021, 6:41:16 PM  [focus] 1
+INFO 4/2/2021, 6:41:29 PM  [blur] 1
+INFO 4/2/2021, 7:00:38 PM  The system is going to sleep
+INFO 4/2/2021, 7:07:11 PM  [focus] 1
+INFO 4/2/2021, 7:11:10 PM  [blur] 1
+INFO 4/2/2021, 7:32:43 PM  [focus] 1
+INFO 4/2/2021, 8:03:10 PM  The system is going to sleep
+INFO 4/2/2021, 9:13:28 PM  [blur] 1
+INFO 4/2/2021, 10:01:37 PM  The system is going to sleep
+INFO 4/3/2021, 5:26:27 AM  The system is going to sleep
+INFO 4/3/2021, 6:52:35 AM  [focus] 1
+INFO 4/3/2021, 6:52:35 AM  [blur] 1
+INFO 4/3/2021, 9:06:40 AM  The system is going to sleep
+INFO 4/3/2021, 10:37:00 AM  [focus] 1
+INFO 4/3/2021, 10:37:33 AM  [blur] 1
+INFO 4/3/2021, 10:37:33 AM  ----------------before-quit-----------------
+INFO 4/3/2021, 10:37:33 AM  ------------------will-quit------------------
+INFO 4/4/2021, 9:14:05 PM  ------------------start------------------
+INFO 4/4/2021, 9:14:05 PM  typora version: 0.9.98
+DEBUG 4/4/2021, 9:14:05 PM  [ '/usr/share/typora/Typora' ]
+INFO 4/4/2021, 9:14:05 PM  [Raven] instanceKey = ce92fe92-3b8d-4bfa-b00b-e6c7d623deee
+DEBUG 4/4/2021, 9:14:05 PM  pinFolder /home/arjun/notes
+DEBUG 4/4/2021, 9:14:05 PM  app.openFile
+INFO 4/4/2021, 9:14:05 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 4/4/2021, 9:14:05 PM  [focus] 1
+INFO 4/4/2021, 9:14:06 PM  handle document.loadInitData
+INFO 4/4/2021, 9:14:06 PM  addRecentFolder
+INFO 4/4/2021, 9:14:09 PM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 4/4/2021, 9:14:09 PM  addRecentDocument
+INFO 4/4/2021, 9:15:11 PM  [blur] 1
+INFO 4/4/2021, 9:22:57 PM  [focus] 1
+INFO 4/4/2021, 9:40:39 PM  [blur] 1
+INFO 4/4/2021, 9:41:55 PM  [focus] 1
+INFO 4/4/2021, 9:41:56 PM  [blur] 1
+INFO 4/4/2021, 9:42:05 PM  [focus] 1
+INFO 4/4/2021, 9:42:16 PM  [blur] 1
+INFO 4/4/2021, 9:49:53 PM  [focus] 1
+INFO 4/4/2021, 9:49:54 PM  [blur] 1
+INFO 4/4/2021, 9:53:07 PM  [focus] 1
+INFO 4/4/2021, 9:55:15 PM  [blur] 1
+INFO 4/4/2021, 9:57:31 PM  [focus] 1
+INFO 4/4/2021, 9:57:33 PM  [blur] 1
+INFO 4/4/2021, 10:02:16 PM  [focus] 1
+INFO 4/4/2021, 10:04:04 PM  [blur] 1
+INFO 4/4/2021, 10:06:39 PM  [focus] 1
+INFO 4/4/2021, 10:09:35 PM  [blur] 1
+INFO 4/4/2021, 10:12:54 PM  The system is going to sleep
+INFO 4/4/2021, 10:14:12 PM  [focus] 1
+INFO 4/4/2021, 10:14:12 PM  [blur] 1
+INFO 4/4/2021, 11:07:02 PM  [focus] 1
+INFO 4/4/2021, 11:07:03 PM  [blur] 1
+INFO 4/4/2021, 11:13:30 PM  [focus] 1
+INFO 4/4/2021, 11:13:31 PM  [blur] 1
+INFO 4/4/2021, 11:33:53 PM  The system is going to sleep
+INFO 4/5/2021, 8:44:58 AM  [focus] 1
+INFO 4/5/2021, 8:45:00 AM  [blur] 1
+INFO 4/5/2021, 8:46:45 AM  [focus] 1
+INFO 4/5/2021, 8:46:45 AM  [blur] 1
+INFO 4/5/2021, 9:55:15 AM  [focus] 1
+INFO 4/5/2021, 11:15:35 AM  ----------------before-quit-----------------
+INFO 4/5/2021, 11:15:35 AM  ------------------will-quit------------------
+INFO 4/5/2021, 11:20:59 AM  ------------------start------------------
+INFO 4/5/2021, 11:20:59 AM  typora version: 0.9.98
+DEBUG 4/5/2021, 11:20:59 AM  [ '/usr/share/typora/Typora' ]
+INFO 4/5/2021, 11:20:59 AM  [Raven] instanceKey = 3a2cdb66-b78e-4636-b59c-d3caf4d9c55e
+DEBUG 4/5/2021, 11:20:59 AM  pinFolder /home/arjun/notes
+DEBUG 4/5/2021, 11:20:59 AM  app.openFile
+INFO 4/5/2021, 11:20:59 AM  [focus] 1
+INFO 4/5/2021, 11:20:59 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 4/5/2021, 11:21:00 AM  handle document.loadInitData
+INFO 4/5/2021, 11:21:00 AM  addRecentFolder
+INFO 4/5/2021, 11:21:04 AM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 4/5/2021, 11:21:04 AM  addRecentDocument
+DEBUG 4/5/2021, 11:21:07 AM  app.openFile
+INFO 4/5/2021, 11:21:07 AM  [blur] 1
+INFO 4/5/2021, 11:21:07 AM  [focus] 2
+INFO 4/5/2021, 11:21:08 AM  handle document.loadInitData
+INFO 4/5/2021, 11:21:09 AM  [blur] 2
+INFO 4/5/2021, 11:21:09 AM  [focus] 1
+INFO 4/5/2021, 11:21:09 AM  [focus] 2
+INFO 4/5/2021, 11:21:09 AM  [blur] 2
+INFO 4/5/2021, 11:21:09 AM  [focus] 2
+INFO 4/5/2021, 11:21:09 AM  [blur] 2
+INFO 4/5/2021, 11:21:09 AM  [focus] 2
+INFO 4/5/2021, 11:24:10 AM  [blur] 2
+INFO 4/5/2021, 11:25:16 AM  [focus] 2
+INFO 4/5/2021, 11:25:17 AM  [blur] 2
+INFO 4/5/2021, 11:25:18 AM  [focus] 2
+INFO 4/5/2021, 11:25:19 AM  [blur] 2
+INFO 4/5/2021, 11:25:20 AM  [focus] 2
+INFO 4/5/2021, 11:25:20 AM  [blur] 2
+INFO 4/5/2021, 11:25:26 AM  [focus] 2
+INFO 4/5/2021, 11:27:16 AM  [blur] 2
+INFO 4/5/2021, 11:27:47 AM  [focus] 2
+INFO 4/5/2021, 11:27:51 AM  [blur] 2
+INFO 4/5/2021, 11:33:58 AM  [focus] 2
+INFO 4/5/2021, 11:34:53 AM  [blur] 2
+INFO 4/5/2021, 11:34:56 AM  [focus] 2
+INFO 4/5/2021, 11:34:57 AM  [blur] 2
+INFO 4/5/2021, 11:37:21 AM  [focus] 2
+INFO 4/5/2021, 11:39:37 AM  [blur] 2
+INFO 4/5/2021, 11:40:05 AM  [focus] 2
+INFO 4/5/2021, 11:40:53 AM  [blur] 2
+INFO 4/5/2021, 11:41:09 AM  [focus] 2
+INFO 4/5/2021, 11:41:12 AM  [blur] 2
+INFO 4/5/2021, 11:41:15 AM  [focus] 2
+INFO 4/5/2021, 11:42:34 AM  [blur] 2
+INFO 4/5/2021, 11:43:46 AM  [focus] 2
+INFO 4/5/2021, 11:44:16 AM  [blur] 2
+INFO 4/5/2021, 11:48:20 AM  [focus] 2
+INFO 4/5/2021, 11:52:01 AM  [blur] 2
+INFO 4/5/2021, 11:53:13 AM  [focus] 2
+INFO 4/5/2021, 11:53:27 AM  [blur] 2
+INFO 4/5/2021, 11:53:32 AM  [focus] 2
+INFO 4/5/2021, 11:54:45 AM  [blur] 2
+INFO 4/5/2021, 11:54:46 AM  [focus] 2
+INFO 4/5/2021, 11:54:46 AM  [blur] 2
+INFO 4/5/2021, 11:54:46 AM  [focus] 2
+INFO 4/5/2021, 11:54:46 AM  [blur] 2
+INFO 4/5/2021, 11:54:46 AM  [focus] 2
+INFO 4/5/2021, 11:54:46 AM  [blur] 2
+INFO 4/5/2021, 11:54:46 AM  [focus] 2
+INFO 4/5/2021, 11:55:18 AM  [blur] 2
+INFO 4/5/2021, 11:55:20 AM  [focus] 2
+INFO 4/5/2021, 11:55:32 AM  [blur] 2
+INFO 4/5/2021, 11:57:15 AM  [focus] 2
+INFO 4/5/2021, 11:57:16 AM  [blur] 2
+INFO 4/5/2021, 12:01:15 PM  The system is going to sleep
+INFO 4/5/2021, 12:09:58 PM  [focus] 2
+INFO 4/5/2021, 12:10:00 PM  [blur] 2
+INFO 4/5/2021, 12:10:13 PM  [focus] 2
+INFO 4/5/2021, 12:10:14 PM  [blur] 2
+INFO 4/5/2021, 1:00:27 PM  [focus] 2
+INFO 4/5/2021, 1:00:28 PM  [blur] 2
+INFO 4/5/2021, 1:10:25 PM  [focus] 2
+INFO 4/5/2021, 1:10:25 PM  [blur] 2
+INFO 4/5/2021, 1:11:44 PM  [focus] 2
+INFO 4/5/2021, 1:11:44 PM  [blur] 2
+INFO 4/5/2021, 1:19:10 PM  [focus] 2
+INFO 4/5/2021, 1:19:11 PM  [blur] 2
+INFO 4/5/2021, 1:19:36 PM  [focus] 2
+INFO 4/5/2021, 1:19:37 PM  [blur] 2
+INFO 4/5/2021, 1:19:47 PM  [focus] 2
+INFO 4/5/2021, 1:19:47 PM  [blur] 2
+INFO 4/5/2021, 1:20:43 PM  [focus] 2
+INFO 4/5/2021, 1:20:44 PM  [blur] 2
+INFO 4/5/2021, 1:21:04 PM  [focus] 2
+INFO 4/5/2021, 1:21:05 PM  [blur] 2
+INFO 4/5/2021, 1:21:08 PM  [focus] 2
+INFO 4/5/2021, 1:21:08 PM  [blur] 2
+INFO 4/5/2021, 1:21:09 PM  [focus] 2
+INFO 4/5/2021, 1:21:09 PM  [blur] 2
+INFO 4/5/2021, 1:21:14 PM  [focus] 2
+INFO 4/5/2021, 1:21:16 PM  [blur] 2
+INFO 4/5/2021, 1:21:31 PM  [focus] 2
+INFO 4/5/2021, 1:21:37 PM  [blur] 2
+INFO 4/5/2021, 1:21:44 PM  got argv [typora] from secondary instance
+DEBUG 4/5/2021, 1:21:44 PM  pinFolder /home/arjun/notes
+DEBUG 4/5/2021, 1:21:44 PM  app.openFile
+INFO 4/5/2021, 1:21:44 PM  [focus] 3
+INFO 4/5/2021, 1:21:45 PM  handle document.loadInitData
+INFO 4/5/2021, 1:21:45 PM  addRecentFolder
+INFO 4/5/2021, 1:21:46 PM  switchDocument 3 [/home/arjun/notes/shh.md]
+INFO 4/5/2021, 1:21:46 PM  addRecentDocument
+DEBUG 4/5/2021, 1:21:46 PM  lastSync null, timestamp 1617636069438, mtime 1617587716010.3186
+INFO 4/5/2021, 1:21:59 PM  [blur] 3
+INFO 4/5/2021, 1:22:32 PM  [focus] 3
+INFO 4/5/2021, 1:23:28 PM  [blur] 3
+INFO 4/5/2021, 1:23:30 PM  [focus] 2
+INFO 4/5/2021, 1:23:30 PM  [blur] 2
+INFO 4/5/2021, 1:24:00 PM  [focus] 3
+INFO 4/5/2021, 1:24:02 PM  [blur] 3
+INFO 4/5/2021, 1:30:39 PM  [focus] 3
+INFO 4/5/2021, 1:30:39 PM  [blur] 3
+INFO 4/5/2021, 1:32:15 PM  [focus] 3
+INFO 4/5/2021, 1:32:16 PM  [blur] 3
+INFO 4/5/2021, 1:32:20 PM  [focus] 3
+INFO 4/5/2021, 1:32:21 PM  [blur] 3
+INFO 4/5/2021, 1:37:10 PM  [focus] 3
+INFO 4/5/2021, 1:37:36 PM  switchDocument 3 [/home/arjun/notes/quadruped.md]
+INFO 4/5/2021, 1:37:36 PM  addRecentDocument
+INFO 4/5/2021, 1:37:37 PM  [blur] 3
+INFO 4/5/2021, 1:37:37 PM  [focus] 3
+INFO 4/5/2021, 1:37:40 PM  [blur] 3
+INFO 4/5/2021, 1:37:45 PM  [focus] 3
+INFO 4/5/2021, 1:37:47 PM  [blur] 3
+INFO 4/5/2021, 1:37:48 PM  [focus] 3
+INFO 4/5/2021, 1:37:52 PM  [blur] 3
+INFO 4/5/2021, 1:38:24 PM  [focus] 3
+INFO 4/5/2021, 1:38:24 PM  [blur] 3
+INFO 4/5/2021, 1:38:31 PM  [focus] 3
+INFO 4/5/2021, 1:38:41 PM  [blur] 3
+INFO 4/5/2021, 1:38:42 PM  [focus] 3
+INFO 4/5/2021, 1:38:42 PM  [blur] 3
+INFO 4/5/2021, 1:39:17 PM  [focus] 3
+INFO 4/5/2021, 1:39:23 PM  [blur] 3
+INFO 4/5/2021, 1:39:37 PM  [focus] 3
+INFO 4/5/2021, 1:39:57 PM  [blur] 3
+INFO 4/5/2021, 1:40:07 PM  [focus] 3
+INFO 4/5/2021, 1:40:08 PM  [blur] 3
+INFO 4/5/2021, 1:40:45 PM  [focus] 3
+INFO 4/5/2021, 1:40:49 PM  [blur] 3
+INFO 4/5/2021, 1:40:50 PM  [focus] 3
+INFO 4/5/2021, 1:41:05 PM  [blur] 3
+INFO 4/5/2021, 1:41:21 PM  [focus] 3
+INFO 4/5/2021, 1:41:22 PM  [blur] 3
+INFO 4/5/2021, 1:41:26 PM  [focus] 3
+INFO 4/5/2021, 1:42:03 PM  [blur] 3
+INFO 4/5/2021, 1:42:05 PM  [focus] 3
+INFO 4/5/2021, 1:42:06 PM  [blur] 3
+INFO 4/5/2021, 1:42:11 PM  [focus] 3
+INFO 4/5/2021, 1:42:24 PM  [blur] 3
+INFO 4/5/2021, 1:42:26 PM  [focus] 3
+INFO 4/5/2021, 1:42:26 PM  [blur] 3
+INFO 4/5/2021, 1:42:37 PM  [focus] 3
+INFO 4/5/2021, 1:42:37 PM  [blur] 3
+INFO 4/5/2021, 1:42:51 PM  [focus] 3
+INFO 4/5/2021, 1:43:06 PM  [blur] 3
+INFO 4/5/2021, 1:43:11 PM  [focus] 3
+INFO 4/5/2021, 1:43:54 PM  [blur] 3
+INFO 4/5/2021, 1:44:10 PM  [focus] 3
+INFO 4/5/2021, 1:44:16 PM  [blur] 3
+INFO 4/5/2021, 1:44:24 PM  [focus] 3
+INFO 4/5/2021, 1:44:31 PM  [blur] 3
+INFO 4/5/2021, 1:46:34 PM  [focus] 3
+INFO 4/5/2021, 1:46:34 PM  [blur] 3
+INFO 4/5/2021, 1:48:36 PM  [focus] 2
+INFO 4/5/2021, 1:48:36 PM  [blur] 2
+INFO 4/5/2021, 1:48:37 PM  [focus] 3
+INFO 4/5/2021, 1:48:37 PM  [blur] 3
+INFO 4/5/2021, 1:48:46 PM  [focus] 3
+INFO 4/5/2021, 1:48:46 PM  [blur] 3
+INFO 4/5/2021, 1:48:47 PM  [focus] 3
+INFO 4/5/2021, 1:48:47 PM  [blur] 3
+INFO 4/5/2021, 1:48:49 PM  [focus] 3
+INFO 4/5/2021, 1:48:50 PM  [blur] 3
+INFO 4/5/2021, 1:49:00 PM  [focus] 3
+INFO 4/5/2021, 1:49:01 PM  [blur] 3
+INFO 4/5/2021, 1:54:58 PM  [focus] 2
+INFO 4/5/2021, 1:54:59 PM  [blur] 2
+INFO 4/5/2021, 1:55:01 PM  [focus] 2
+INFO 4/5/2021, 1:55:03 PM  [blur] 2
+INFO 4/5/2021, 1:55:03 PM  [focus] 3
+INFO 4/5/2021, 1:55:04 PM  [blur] 3
+INFO 4/5/2021, 2:06:30 PM  [focus] 3
+INFO 4/5/2021, 2:06:30 PM  [blur] 3
+INFO 4/5/2021, 2:06:31 PM  [focus] 3
+INFO 4/5/2021, 2:06:31 PM  [blur] 3
+INFO 4/5/2021, 2:07:17 PM  [focus] 3
+INFO 4/5/2021, 2:09:13 PM  [blur] 3
+INFO 4/5/2021, 2:09:15 PM  [focus] 3
+INFO 4/5/2021, 2:09:15 PM  [blur] 3
+INFO 4/5/2021, 2:14:15 PM  [focus] 3
+INFO 4/5/2021, 2:14:16 PM  [blur] 3
+INFO 4/5/2021, 2:16:39 PM  [focus] 3
+INFO 4/5/2021, 2:16:39 PM  [blur] 3
+INFO 4/5/2021, 2:16:40 PM  [focus] 3
+INFO 4/5/2021, 2:16:41 PM  [blur] 3
+INFO 4/5/2021, 2:16:58 PM  [focus] 2
+INFO 4/5/2021, 2:16:59 PM  [blur] 2
+INFO 4/5/2021, 2:17:08 PM  [focus] 3
+INFO 4/5/2021, 2:17:09 PM  [blur] 3
+INFO 4/5/2021, 2:17:40 PM  [focus] 3
+INFO 4/5/2021, 2:17:41 PM  [blur] 3
+INFO 4/5/2021, 2:18:28 PM  [focus] 3
+INFO 4/5/2021, 2:18:29 PM  [blur] 3
+INFO 4/5/2021, 2:19:09 PM  [focus] 3
+INFO 4/5/2021, 2:19:09 PM  [blur] 3
+INFO 4/5/2021, 2:19:11 PM  [focus] 3
+INFO 4/5/2021, 2:19:11 PM  [blur] 3
+INFO 4/5/2021, 2:19:24 PM  [focus] 3
+INFO 4/5/2021, 2:19:25 PM  [blur] 3
+INFO 4/5/2021, 2:19:27 PM  [focus] 2
+INFO 4/5/2021, 2:19:27 PM  [blur] 2
+INFO 4/5/2021, 2:19:29 PM  [focus] 2
+INFO 4/5/2021, 2:19:29 PM  [blur] 2
+INFO 4/5/2021, 2:19:30 PM  [focus] 3
+INFO 4/5/2021, 2:19:32 PM  [blur] 3
+INFO 4/5/2021, 2:20:52 PM  [focus] 3
+INFO 4/5/2021, 2:20:53 PM  [blur] 3
+INFO 4/5/2021, 2:20:55 PM  [focus] 2
+INFO 4/5/2021, 2:20:55 PM  [blur] 2
+INFO 4/5/2021, 2:20:58 PM  [focus] 3
+INFO 4/5/2021, 2:20:58 PM  [blur] 3
+INFO 4/5/2021, 2:21:47 PM  [focus] 3
+INFO 4/5/2021, 2:21:48 PM  [blur] 3
+INFO 4/5/2021, 2:21:59 PM  [focus] 3
+INFO 4/5/2021, 2:21:59 PM  [blur] 3
+INFO 4/5/2021, 2:25:27 PM  [focus] 3
+INFO 4/5/2021, 2:25:27 PM  [blur] 3
+INFO 4/5/2021, 2:25:28 PM  [focus] 2
+INFO 4/5/2021, 2:25:29 PM  [blur] 2
+INFO 4/5/2021, 2:25:39 PM  [focus] 3
+INFO 4/5/2021, 2:25:40 PM  [blur] 3
+INFO 4/5/2021, 2:26:32 PM  [focus] 3
+INFO 4/5/2021, 2:26:32 PM  [blur] 3
+INFO 4/5/2021, 2:26:35 PM  [focus] 3
+INFO 4/5/2021, 2:26:36 PM  [blur] 3
+INFO 4/5/2021, 2:26:42 PM  [focus] 3
+INFO 4/5/2021, 2:27:32 PM  [blur] 3
+INFO 4/5/2021, 2:27:34 PM  [focus] 2
+INFO 4/5/2021, 2:27:35 PM  [blur] 2
+INFO 4/5/2021, 2:27:36 PM  [focus] 3
+INFO 4/5/2021, 2:27:36 PM  [blur] 3
+INFO 4/5/2021, 2:30:40 PM  [focus] 3
+INFO 4/5/2021, 2:30:41 PM  [blur] 3
+INFO 4/5/2021, 2:31:26 PM  [focus] 3
+INFO 4/5/2021, 2:31:26 PM  [blur] 3
+INFO 4/5/2021, 2:34:14 PM  [focus] 3
+INFO 4/5/2021, 2:34:15 PM  [blur] 3
+INFO 4/5/2021, 2:34:21 PM  [focus] 3
+INFO 4/5/2021, 2:34:22 PM  [blur] 3
+INFO 4/5/2021, 2:34:23 PM  [focus] 3
+INFO 4/5/2021, 2:34:24 PM  [blur] 3
+INFO 4/5/2021, 2:36:05 PM  [focus] 3
+INFO 4/5/2021, 2:36:05 PM  [blur] 3
+INFO 4/5/2021, 2:37:05 PM  [focus] 3
+INFO 4/5/2021, 2:37:07 PM  [blur] 3
+INFO 4/5/2021, 2:37:12 PM  [focus] 3
+INFO 4/5/2021, 2:37:12 PM  [blur] 3
+INFO 4/5/2021, 2:37:13 PM  [focus] 2
+INFO 4/5/2021, 2:37:14 PM  [blur] 2
+INFO 4/5/2021, 2:45:21 PM  [focus] 3
+INFO 4/5/2021, 2:45:22 PM  [blur] 3
+INFO 4/5/2021, 3:00:53 PM  [focus] 3
+INFO 4/5/2021, 3:01:06 PM  [focus] 2
+INFO 4/5/2021, 3:01:08 PM  ----------------before-quit-----------------
+INFO 4/5/2021, 3:01:08 PM  ------------------will-quit------------------
+INFO 4/5/2021, 11:58:23 PM  ------------------start------------------
+INFO 4/5/2021, 11:58:23 PM  typora version: 0.9.98
+DEBUG 4/5/2021, 11:58:23 PM  [ '/usr/share/typora/Typora' ]
+INFO 4/5/2021, 11:58:23 PM  [Raven] instanceKey = f9622658-aaa5-4e3e-81a3-9850867b6190
+DEBUG 4/5/2021, 11:58:23 PM  pinFolder /home/arjun/notes
+DEBUG 4/5/2021, 11:58:23 PM  app.openFile
+INFO 4/5/2021, 11:58:23 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 4/5/2021, 11:58:23 PM  [focus] 1
+INFO 4/5/2021, 11:58:24 PM  handle document.loadInitData
+INFO 4/5/2021, 11:58:24 PM  addRecentFolder
+INFO 4/5/2021, 11:58:25 PM  [blur] 1
+INFO 4/5/2021, 11:58:25 PM  [focus] 1
+INFO 4/5/2021, 11:58:28 PM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 4/5/2021, 11:58:28 PM  addRecentDocument
+INFO 4/5/2021, 11:58:29 PM  switchDocument 1 [/home/arjun/notes/quadruped.md]
+INFO 4/5/2021, 11:58:29 PM  addRecentDocument
+INFO 4/5/2021, 11:58:48 PM  [blur] 1
+INFO 4/5/2021, 11:58:49 PM  ondragstart /home/arjun/notes/quadruped.md 
+INFO 4/5/2021, 11:58:50 PM  [focus] 1
+INFO 4/5/2021, 11:58:56 PM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 4/5/2021, 11:58:56 PM  addRecentDocument
+DEBUG 4/5/2021, 11:58:56 PM  lastSync null, timestamp 1617681508296, mtime 1617643408269.939
+INFO 4/5/2021, 11:59:23 PM  [blur] 1
+INFO 4/6/2021, 12:01:14 AM  [focus] 1
+INFO 4/6/2021, 12:01:15 AM  [blur] 1
+INFO 4/6/2021, 12:58:47 AM  The system is going to sleep
+INFO 4/6/2021, 6:51:04 AM  [focus] 1
+INFO 4/6/2021, 6:51:05 AM  [blur] 1
+INFO 4/6/2021, 7:00:42 AM  [focus] 1
+INFO 4/6/2021, 7:00:42 AM  [blur] 1
+INFO 4/6/2021, 7:00:50 AM  [focus] 1
+INFO 4/6/2021, 7:00:50 AM  [blur] 1
+INFO 4/6/2021, 7:00:52 AM  [focus] 1
+INFO 4/6/2021, 7:00:53 AM  [blur] 1
+INFO 4/6/2021, 7:12:09 AM  [focus] 1
+INFO 4/6/2021, 7:12:10 AM  ----------------before-quit-----------------
+INFO 4/6/2021, 7:12:10 AM  ------------------will-quit------------------
+INFO 4/6/2021, 4:54:56 PM  ------------------start------------------
+INFO 4/6/2021, 4:54:56 PM  typora version: 0.9.98
+DEBUG 4/6/2021, 4:54:57 PM  [ '/usr/share/typora/Typora' ]
+INFO 4/6/2021, 4:54:57 PM  [Raven] instanceKey = 207e336a-2a9b-4f28-b58d-71084f18d648
+DEBUG 4/6/2021, 4:54:57 PM  pinFolder /home/arjun/notes
+DEBUG 4/6/2021, 4:54:57 PM  app.openFile
+INFO 4/6/2021, 4:54:57 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 4/6/2021, 4:54:57 PM  [focus] 1
+INFO 4/6/2021, 4:54:57 PM  handle document.loadInitData
+INFO 4/6/2021, 4:54:57 PM  addRecentFolder
+INFO 4/6/2021, 4:55:00 PM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 4/6/2021, 4:55:00 PM  addRecentDocument
+INFO 4/6/2021, 5:00:24 PM  [blur] 1
+INFO 4/6/2021, 5:03:09 PM  [focus] 1
+INFO 4/6/2021, 5:03:41 PM  [blur] 1
+INFO 4/6/2021, 5:03:59 PM  [focus] 1
+INFO 4/6/2021, 5:04:02 PM  [blur] 1
+INFO 4/6/2021, 5:04:04 PM  [focus] 1
+INFO 4/6/2021, 5:04:04 PM  [blur] 1
+INFO 4/6/2021, 5:17:53 PM  [focus] 1
+INFO 4/6/2021, 5:17:56 PM  [blur] 1
+INFO 4/6/2021, 5:17:56 PM  [focus] 1
+INFO 4/6/2021, 5:17:57 PM  [blur] 1
+INFO 4/6/2021, 5:20:15 PM  [focus] 1
+INFO 4/6/2021, 5:21:49 PM  [blur] 1
+INFO 4/6/2021, 5:22:01 PM  [focus] 1
+INFO 4/6/2021, 5:23:48 PM  [blur] 1
+INFO 4/6/2021, 5:35:26 PM  [focus] 1
+INFO 4/6/2021, 5:35:28 PM  [blur] 1
+INFO 4/6/2021, 5:35:37 PM  [focus] 1
+INFO 4/6/2021, 5:35:37 PM  [blur] 1
+INFO 4/6/2021, 5:48:51 PM  [focus] 1
+INFO 4/6/2021, 5:48:54 PM  ----------------before-quit-----------------
+INFO 4/6/2021, 5:48:54 PM  ------------------will-quit------------------
+INFO 4/8/2021, 7:47:33 AM  ------------------start------------------
+INFO 4/8/2021, 7:47:33 AM  typora version: 0.9.98
+DEBUG 4/8/2021, 7:47:33 AM  [ '/usr/share/typora/Typora' ]
+INFO 4/8/2021, 7:47:33 AM  [Raven] instanceKey = 2029cc70-2a24-4893-a446-a17ecdb448c3
+DEBUG 4/8/2021, 7:47:33 AM  pinFolder /home/arjun/notes
+DEBUG 4/8/2021, 7:47:33 AM  app.openFile
+INFO 4/8/2021, 7:47:33 AM  [focus] 1
+INFO 4/8/2021, 7:47:33 AM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 4/8/2021, 7:47:33 AM  handle document.loadInitData
+INFO 4/8/2021, 7:47:33 AM  addRecentFolder
+INFO 4/8/2021, 7:47:56 AM  [blur] 1
+INFO 4/8/2021, 7:48:41 AM  [focus] 1
+INFO 4/8/2021, 7:48:43 AM  [blur] 1
+INFO 4/8/2021, 7:50:16 AM  [focus] 1
+INFO 4/8/2021, 7:50:16 AM  [blur] 1
+INFO 4/8/2021, 7:50:35 AM  [focus] 1
+INFO 4/8/2021, 7:50:37 AM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 4/8/2021, 7:50:37 AM  addRecentDocument
+INFO 4/8/2021, 7:50:38 AM  [blur] 1
+INFO 4/8/2021, 7:51:05 AM  [focus] 1
+INFO 4/8/2021, 7:51:07 AM  [blur] 1
+INFO 4/8/2021, 9:02:17 AM  [focus] 1
+INFO 4/8/2021, 9:02:18 AM  [blur] 1
+INFO 4/8/2021, 12:03:14 PM  [focus] 1
+INFO 4/8/2021, 12:03:14 PM  [blur] 1
+INFO 4/8/2021, 12:07:52 PM  [focus] 1
+INFO 4/8/2021, 12:08:02 PM  [blur] 1
+INFO 4/8/2021, 12:09:07 PM  [focus] 1
+INFO 4/8/2021, 12:09:37 PM  [blur] 1
+INFO 4/8/2021, 12:10:31 PM  [focus] 1
+INFO 4/8/2021, 12:10:32 PM  [blur] 1
+INFO 4/8/2021, 12:10:33 PM  [focus] 1
+INFO 4/8/2021, 12:10:33 PM  [blur] 1
+INFO 4/8/2021, 12:10:35 PM  [focus] 1
+INFO 4/8/2021, 12:10:36 PM  [blur] 1
+INFO 4/8/2021, 12:10:37 PM  [focus] 1
+INFO 4/8/2021, 12:10:37 PM  [blur] 1
+INFO 4/8/2021, 1:04:00 PM  [focus] 1
+INFO 4/8/2021, 1:04:03 PM  [blur] 1
+INFO 4/8/2021, 1:08:33 PM  [focus] 1
+INFO 4/8/2021, 1:08:36 PM  [blur] 1
+INFO 4/8/2021, 1:08:38 PM  [focus] 1
+INFO 4/8/2021, 1:08:46 PM  [blur] 1
+INFO 4/8/2021, 1:47:35 PM  [focus] 1
+INFO 4/8/2021, 1:47:36 PM  [blur] 1
+INFO 4/8/2021, 2:08:40 PM  [focus] 1
+INFO 4/8/2021, 2:08:41 PM  [blur] 1
+INFO 4/8/2021, 2:09:45 PM  [focus] 1
+INFO 4/8/2021, 2:09:46 PM  [blur] 1
+INFO 4/8/2021, 2:09:47 PM  [focus] 1
+INFO 4/8/2021, 2:09:59 PM  [blur] 1
+INFO 4/8/2021, 2:12:59 PM  [focus] 1
+INFO 4/8/2021, 2:13:00 PM  [blur] 1
+INFO 4/8/2021, 4:11:25 PM  [focus] 1
+INFO 4/8/2021, 4:11:32 PM  ----------------before-quit-----------------
+INFO 4/8/2021, 4:11:32 PM  ------------------will-quit------------------
+INFO 4/8/2021, 11:40:29 PM  ------------------start------------------
+INFO 4/8/2021, 11:40:29 PM  typora version: 0.9.98
+DEBUG 4/8/2021, 11:40:29 PM  [ '/usr/share/typora/Typora' ]
+INFO 4/8/2021, 11:40:29 PM  [Raven] instanceKey = 4bd34b44-f71f-4298-8716-078ace79db28
+DEBUG 4/8/2021, 11:40:29 PM  pinFolder /home/arjun/notes
+DEBUG 4/8/2021, 11:40:29 PM  app.openFile
+INFO 4/8/2021, 11:40:29 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 4/8/2021, 11:40:29 PM  [focus] 1
+INFO 4/8/2021, 11:40:30 PM  handle document.loadInitData
+INFO 4/8/2021, 11:40:30 PM  addRecentFolder
+INFO 4/8/2021, 11:40:31 PM  [blur] 1
+INFO 4/8/2021, 11:40:31 PM  [focus] 1
+INFO 4/8/2021, 11:40:32 PM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 4/8/2021, 11:40:32 PM  addRecentDocument
+INFO 4/8/2021, 11:41:38 PM  [blur] 1
+INFO 4/8/2021, 11:41:41 PM  [focus] 1
+INFO 4/8/2021, 11:42:48 PM  [blur] 1
+INFO 4/8/2021, 11:44:44 PM  [focus] 1
+INFO 4/8/2021, 11:45:17 PM  [blur] 1
+INFO 4/8/2021, 11:45:20 PM  [focus] 1
+INFO 4/8/2021, 11:45:25 PM  [blur] 1
+INFO 4/8/2021, 11:52:27 PM  [focus] 1
+INFO 4/8/2021, 11:52:29 PM  [blur] 1
+INFO 4/8/2021, 11:53:50 PM  [focus] 1
+INFO 4/8/2021, 11:53:50 PM  [blur] 1
+INFO 4/9/2021, 12:21:15 AM  The system is going to sleep
+INFO 4/9/2021, 2:39:54 AM  [focus] 1
+INFO 4/9/2021, 2:39:55 AM  [blur] 1
+INFO 4/9/2021, 2:59:06 AM  [focus] 1
+INFO 4/9/2021, 2:59:17 AM  [blur] 1
+INFO 4/9/2021, 2:59:22 AM  [focus] 1
+INFO 4/9/2021, 2:59:25 AM  [blur] 1
+INFO 4/9/2021, 4:30:13 AM  The system is going to sleep
+INFO 4/9/2021, 10:31:54 AM  [focus] 1
+INFO 4/9/2021, 10:31:55 AM  [blur] 1
+INFO 4/9/2021, 12:47:54 PM  [focus] 1
+INFO 4/9/2021, 12:47:54 PM  [blur] 1
+INFO 4/9/2021, 1:34:08 PM  ----------------before-quit-----------------
+INFO 4/9/2021, 4:10:48 PM  ------------------start------------------
+INFO 4/9/2021, 4:10:48 PM  typora version: 0.9.98
+DEBUG 4/9/2021, 4:10:48 PM  [ '/usr/share/typora/Typora' ]
+INFO 4/9/2021, 4:10:48 PM  [Raven] instanceKey = 3ba2e4e7-416a-45ff-809b-1d259af30a5c
+DEBUG 4/9/2021, 4:10:48 PM  pinFolder /home/arjun/notes
+DEBUG 4/9/2021, 4:10:48 PM  app.openFile
+INFO 4/9/2021, 4:10:49 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 4/9/2021, 4:10:49 PM  [focus] 1
+INFO 4/9/2021, 4:10:49 PM  handle document.loadInitData
+INFO 4/9/2021, 4:10:50 PM  addRecentFolder
+INFO 4/9/2021, 4:10:51 PM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 4/9/2021, 4:10:51 PM  addRecentDocument
+INFO 4/9/2021, 4:11:16 PM  [blur] 1
+INFO 4/9/2021, 4:15:31 PM  [focus] 1
+INFO 4/9/2021, 4:15:36 PM  [blur] 1
+INFO 4/9/2021, 4:47:48 PM  [focus] 1
+INFO 4/9/2021, 4:47:50 PM  [blur] 1
+INFO 4/9/2021, 5:10:32 PM  [focus] 1
+INFO 4/9/2021, 5:10:32 PM  [blur] 1
+INFO 4/9/2021, 5:12:27 PM  [focus] 1
+INFO 4/9/2021, 5:12:29 PM  [blur] 1
+INFO 4/9/2021, 5:12:48 PM  [focus] 1
+INFO 4/9/2021, 5:12:48 PM  [blur] 1
+INFO 4/9/2021, 5:33:16 PM  The system is going to sleep
+INFO 4/9/2021, 6:32:03 PM  [focus] 1
+INFO 4/9/2021, 6:32:03 PM  [blur] 1
+INFO 4/9/2021, 6:32:04 PM  [focus] 1
+INFO 4/9/2021, 6:32:04 PM  [blur] 1
+INFO 4/9/2021, 7:28:37 PM  [focus] 1
+INFO 4/9/2021, 7:28:39 PM  [blur] 1
+INFO 4/9/2021, 7:41:25 PM  [focus] 1
+INFO 4/9/2021, 7:41:53 PM  [blur] 1
+INFO 4/9/2021, 7:42:35 PM  [focus] 1
+INFO 4/9/2021, 7:42:35 PM  [blur] 1
+INFO 4/9/2021, 7:42:39 PM  [focus] 1
+INFO 4/9/2021, 7:42:41 PM  [blur] 1
+INFO 4/9/2021, 7:42:43 PM  [focus] 1
+INFO 4/9/2021, 7:42:55 PM  [blur] 1
+INFO 4/9/2021, 7:43:19 PM  [focus] 1
+INFO 4/9/2021, 7:43:23 PM  [blur] 1
+INFO 4/9/2021, 7:43:53 PM  [focus] 1
+INFO 4/9/2021, 7:43:55 PM  [blur] 1
+INFO 4/9/2021, 7:43:56 PM  [focus] 1
+INFO 4/9/2021, 7:43:56 PM  [blur] 1
+INFO 4/9/2021, 7:43:58 PM  [focus] 1
+INFO 4/9/2021, 7:43:59 PM  [blur] 1
+INFO 4/9/2021, 7:46:02 PM  [focus] 1
+INFO 4/9/2021, 7:46:03 PM  [blur] 1
+INFO 4/9/2021, 7:46:28 PM  [focus] 1
+INFO 4/9/2021, 7:46:36 PM  switchDocument 1 [/home/arjun/notes/Untitled.md]
+INFO 4/9/2021, 7:46:36 PM  addRecentDocument
+INFO 4/9/2021, 7:46:45 PM  addRecentDocument
+INFO 4/9/2021, 7:57:10 PM  [blur] 1
+INFO 4/9/2021, 8:55:06 PM  [focus] 1
+INFO 4/9/2021, 8:55:07 PM  [blur] 1
+INFO 4/10/2021, 2:56:04 AM  The system is going to sleep
+INFO 4/10/2021, 7:11:53 PM  [focus] 1
+INFO 4/10/2021, 7:11:54 PM  [blur] 1
+INFO 4/10/2021, 7:46:31 PM  [focus] 1
+INFO 4/10/2021, 7:46:33 PM  [blur] 1
+INFO 4/10/2021, 7:46:34 PM  [focus] 1
+INFO 4/10/2021, 7:46:37 PM  [blur] 1
+INFO 4/10/2021, 8:11:53 PM  [focus] 1
+INFO 4/10/2021, 8:11:54 PM  [blur] 1
+INFO 4/10/2021, 8:13:59 PM  [focus] 1
+INFO 4/10/2021, 8:14:01 PM  [blur] 1
+INFO 4/10/2021, 8:14:46 PM  [focus] 1
+INFO 4/10/2021, 8:14:48 PM  [blur] 1
+INFO 4/10/2021, 8:16:24 PM  [focus] 1
+INFO 4/10/2021, 8:16:24 PM  [blur] 1
+INFO 4/10/2021, 8:41:12 PM  [focus] 1
+INFO 4/10/2021, 8:41:13 PM  [blur] 1
+INFO 4/10/2021, 9:34:06 PM  The system is going to sleep
+INFO 4/10/2021, 10:29:15 PM  The system is going to sleep
+INFO 4/10/2021, 11:52:12 PM  [focus] 1
+INFO 4/10/2021, 11:52:12 PM  [blur] 1
+INFO 4/11/2021, 12:15:26 AM  [focus] 1
+INFO 4/11/2021, 12:15:27 AM  [blur] 1
+INFO 4/11/2021, 12:15:30 AM  [focus] 1
+INFO 4/11/2021, 12:15:31 AM  [blur] 1
+INFO 4/11/2021, 2:35:01 AM  The system is going to sleep
+INFO 4/11/2021, 2:56:37 AM  The system is going to sleep
+INFO 4/11/2021, 7:26:36 AM  The system is going to sleep
+INFO 4/12/2021, 2:49:30 PM  ------------------start------------------
+INFO 4/12/2021, 2:49:30 PM  typora version: 0.9.98
+DEBUG 4/12/2021, 2:49:30 PM  [ '/usr/share/typora/Typora' ]
+INFO 4/12/2021, 2:49:30 PM  [Raven] instanceKey = 752e20c1-d4d9-41cd-b6b1-6e9554aec9e6
+INFO 4/12/2021, 2:49:30 PM  [Raven] userId = 47343658-67df-4057-8c12-18b77bab3531
+INFO 4/12/2021, 2:49:30 PM  launch from abnormal quit
+INFO 4/12/2021, 2:49:30 PM  recoverWindow {"id":1,"path":"/home/arjun/notes/Wok.md","useCRLF":false,"hasUnsaved":false,"scrollPos":0,"syncDate":1618012629933,"mountFolder":"/home/arjun/notes"}
+DEBUG 4/12/2021, 2:49:30 PM  app.openFile
+INFO 4/12/2021, 2:49:30 PM  addRecentDocument
+INFO 4/12/2021, 2:49:30 PM  [focus] 1
+INFO 4/12/2021, 2:49:31 PM  handle document.loadInitData
+INFO 4/12/2021, 2:49:32 PM  [blur] 1
+INFO 4/12/2021, 2:49:32 PM  [focus] 1
+INFO 4/12/2021, 2:49:36 PM  switchDocument 1 [/home/arjun/notes/shh.md]
+INFO 4/12/2021, 2:49:36 PM  addRecentDocument
+INFO 4/12/2021, 2:50:24 PM  [blur] 1
+INFO 4/12/2021, 2:50:25 PM  [focus] 1
+INFO 4/12/2021, 2:50:25 PM  [blur] 1
+INFO 4/12/2021, 2:50:28 PM  [focus] 1
+INFO 4/12/2021, 2:50:29 PM  [blur] 1
+INFO 4/12/2021, 2:50:29 PM  [focus] 1
+INFO 4/12/2021, 2:50:35 PM  [blur] 1
+INFO 4/12/2021, 2:50:36 PM  [focus] 1
+INFO 4/12/2021, 2:50:36 PM  [blur] 1
+INFO 4/12/2021, 2:51:55 PM  [focus] 1
+INFO 4/12/2021, 2:51:55 PM  [blur] 1
+INFO 4/12/2021, 2:51:56 PM  [focus] 1
+INFO 4/12/2021, 2:52:03 PM  [blur] 1
+INFO 4/12/2021, 2:53:06 PM  [focus] 1
+INFO 4/12/2021, 2:53:18 PM  [blur] 1
+INFO 4/12/2021, 2:54:19 PM  [focus] 1
+INFO 4/12/2021, 2:54:19 PM  [blur] 1
+INFO 4/12/2021, 2:56:04 PM  [focus] 1
+INFO 4/12/2021, 2:56:04 PM  [blur] 1
+INFO 4/12/2021, 2:56:12 PM  [focus] 1
+INFO 4/12/2021, 2:56:14 PM  [blur] 1
+INFO 4/12/2021, 4:43:21 PM  The system is going to sleep
+INFO 4/12/2021, 9:14:51 PM  [focus] 1
+INFO 4/12/2021, 9:14:52 PM  ----------------before-quit-----------------
+INFO 4/12/2021, 9:14:52 PM  ------------------will-quit------------------

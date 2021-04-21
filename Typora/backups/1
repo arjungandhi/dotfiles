@@ -1,0 +1,5 @@
+=obots of the future will have to co-exist with their human counterparts in all terrain. This will require robots to maneuver in environments designed for human legs, rather than a robot's wheels. This project demonstrates the design and execution of a quadruped robot that uses legs for locomotion rather than traditional wheels. This requires extensive mechanical, electrical, and control system design to ensure the robot is capable of successfully maneuvering with static and dynamic walking gaits. The robot achieves this by using a unique control system layout, as well as an entirely custom mechanical design, allowing the robot to be built without access to the machine shop. The robot has additional computational capacity allowing the project to be adapted and continued in the future. 
+
+
+
+In a world designed for human beings quadrupeds offer a way for robots to easily navigate unstructured terrain. While, a traditional robot that uses wheels or treads would be more disruptive if not incapable in environments a quadrupeds mobility allows it to easily navigate such 
